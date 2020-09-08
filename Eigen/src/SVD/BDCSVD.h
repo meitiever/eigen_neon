@@ -267,7 +267,7 @@ BDCSVD<MatrixType>& BDCSVD<MatrixType>::compute(const MatrixType& matrix, unsign
   
   //**** step 1 - Bidiagonalization
   // FIXME this line involves temporaries
-  internal::UpperBidiagonalization<MatrixX, Archicture::Target> bid(copy);
+  internal::UpperBidiagonalization<MatrixX, Architecture::Target> bid(copy);
   
   //**** step 2 - Divide & Conquer
   m_naiveU.setZero();
