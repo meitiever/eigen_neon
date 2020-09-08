@@ -90,7 +90,7 @@ class UpperBidiagonalization
 
 // Standard upper bidiagonalization without fancy optimizations
 // This version should be faster for small matrix size
-template<typename MatrixType, int arch> 
+template<typename MatrixType> 
 void upperbidiagonalization_inplace_unblocked(MatrixType& mat,
                                               typename MatrixType::RealScalar *diagonal,
                                               typename MatrixType::RealScalar *upper_diagonal,
@@ -149,7 +149,7 @@ void upperbidiagonalization_inplace_unblocked(MatrixType& mat,
   * respectively, and the update matrices X and Y are computed during the reduction.
   * 
   */
-template<typename MatrixType, int arch>
+template<typename MatrixType>
 void upperbidiagonalization_blocked_helper(MatrixType& A,
                                            typename MatrixType::RealScalar *diagonal,
                                            typename MatrixType::RealScalar *upper_diagonal,
