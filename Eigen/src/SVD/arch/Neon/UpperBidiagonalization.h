@@ -87,7 +87,51 @@ template<typename _MatrixType> class UpperBidiagonalization<_MatrixType, Archite
     bool m_isInitialized;
 };
 
+// Standard upper bidiagonalization without fancy optimizations
+// This version should be faster for small matrix size
+// @Todo:All the three func are defined in householder.h, rewrite these func to NEON.
+// makeHouseholderInPlace applyHouseholderOnTheLeft applyHouseholderOnTheRight
+template<typename MatrixType> 
+void upperbidiagonalization_inplace_unblocked(MatrixType& mat,
+                                              typename MatrixType::RealScalar *diagonal,
+                                              typename MatrixType::RealScalar *upper_diagonal,
+                                              typename MatrixType::Scalar* tempData = 0)
+{
+  typedef typename MatrixType::Scalar Scalar;
 
+  Index rows = mat.rows();
+  Index cols = mat.cols();
+
+  typedef Matrix<Scalar,Dynamic,1,ColMajor,MatrixType::MaxRowsAtCompileTime,1> TempType;
+  TempType tempVector;
+  if(tempData==0)
+  {
+    tempVector.resize(rows);
+    tempData = tempVector.data();
+  }
+
+  for (Index k = 0; /* breaks at k==cols-1 below */ ; ++k)
+  {
+    Index remainingRows = rows - k;
+    Index remainingCols = cols - k - 1;
+
+    // construct left householder transform in-place in A
+    mat.col(k).tail(remainingRows)
+       .makeHouseholderInPlace(mat.coeffRef(k,k), diagonal[k]);
+    // apply householder transform to remaining part of A on the left
+    mat.bottomRightCorner(remainingRows, remainingCols)
+       .applyHouseholderOnTheLeft(mat.col(k).tail(remainingRows-1), mat.coeff(k,k), tempData);
+
+    if(k == cols-1) break;
+
+    // construct right householder transform in-place in mat
+    mat.row(k).tail(remainingCols)
+       .makeHouseholderInPlace(mat.coeffRef(k,k+1), upper_diagonal[k]);
+    // apply householder transform to remaining part of mat on the left
+    mat.bottomRightCorner(remainingRows-1, remainingCols)
+       .applyHouseholderOnTheRight(mat.row(k).tail(remainingCols-1).transpose(), mat.coeff(k,k+1), tempData);
+  }
+}
 
 } // end namespace internal
 
