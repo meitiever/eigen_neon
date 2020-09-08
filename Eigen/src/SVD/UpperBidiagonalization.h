@@ -17,7 +17,7 @@ namespace internal {
 // UpperBidiagonalization will probably be replaced by a Bidiagonalization class, don't want to make it stable API.
 // At the same time, it's useful to keep for now as it's about the only thing that is testing the BandMatrix class.
 
-template<typename _MatrixType> class UpperBidiagonalization
+template<typename _MatrixType, int arch = Architecture::Generic> class UpperBidiagonalization
 {
   public:
 
