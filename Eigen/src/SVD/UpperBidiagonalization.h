@@ -17,7 +17,8 @@ namespace internal {
 // UpperBidiagonalization will probably be replaced by a Bidiagonalization class, don't want to make it stable API.
 // At the same time, it's useful to keep for now as it's about the only thing that is testing the BandMatrix class.
 
-template<typename _MatrixType, int arch = Architecture::Generic> class UpperBidiagonalization
+template<typename _MatrixType, int arch = Architecture::Generic> 
+class UpperBidiagonalization
 {
   public:
 
@@ -89,7 +90,7 @@ template<typename _MatrixType, int arch = Architecture::Generic> class UpperBidi
 
 // Standard upper bidiagonalization without fancy optimizations
 // This version should be faster for small matrix size
-template<typename MatrixType>
+template<typename MatrixType, int arch> 
 void upperbidiagonalization_inplace_unblocked(MatrixType& mat,
                                               typename MatrixType::RealScalar *diagonal,
                                               typename MatrixType::RealScalar *upper_diagonal,
@@ -148,7 +149,7 @@ void upperbidiagonalization_inplace_unblocked(MatrixType& mat,
   * respectively, and the update matrices X and Y are computed during the reduction.
   * 
   */
-template<typename MatrixType>
+template<typename MatrixType, int arch>
 void upperbidiagonalization_blocked_helper(MatrixType& A,
                                            typename MatrixType::RealScalar *diagonal,
                                            typename MatrixType::RealScalar *upper_diagonal,
@@ -355,8 +356,8 @@ void upperbidiagonalization_inplace_blocked(MatrixType& A, BidiagType& bidiagona
   }
 }
 
-template<typename _MatrixType>
-UpperBidiagonalization<_MatrixType>& UpperBidiagonalization<_MatrixType>::computeUnblocked(const _MatrixType& matrix)
+template<typename _MatrixType, int arch>
+UpperBidiagonalization<_MatrixType, arch>& UpperBidiagonalization<_MatrixType, arch>::computeUnblocked(const _MatrixType& matrix)
 {
   Index rows = matrix.rows();
   Index cols = matrix.cols();
@@ -377,8 +378,8 @@ UpperBidiagonalization<_MatrixType>& UpperBidiagonalization<_MatrixType>::comput
   return *this;
 }
 
-template<typename _MatrixType>
-UpperBidiagonalization<_MatrixType>& UpperBidiagonalization<_MatrixType>::compute(const _MatrixType& matrix)
+template<typename _MatrixType, int arch>
+UpperBidiagonalization<_MatrixType, arch>& UpperBidiagonalization<_MatrixType, arch>::compute(const _MatrixType& matrix)
 {
   Index rows = matrix.rows();
   Index cols = matrix.cols();
