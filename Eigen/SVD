@@ -48,7 +48,7 @@
 #include "src/Core/util/ReenableStupidWarnings.h"
 
 #if defined EIGEN_VECTORIZE_NEON
-  #include "src/SVD/arch/NEON/UpperBidiagonalization.h"  
+  #include "src/SVD/arch/Neon/UpperBidiagonalization.h"
 #endif
 
 #endif // EIGEN_SVD_MODULE_H
