@@ -1,0 +1,2400 @@
+[  0%] Built target polynomialsolver_11
+[  0%] Built target sparse_basic_2
+[  0%] Built target boostmultiprec_10
+[  0%] Built target boostmultiprec_8
+[  0%] Built target boostmultiprec_7
+[  0%] Built target boostmultiprec_3
+[  0%] Built target boostmultiprec_1
+[  1%] Built target eigen_blas
+[  1%] Built target eigen_lapack
+[  1%] Built target spqr_support_2
+[  1%] Built target cholmod_support_1
+[  1%] Built target superlu_support_2
+[  1%] Built target umfpack_support_2
+[  2%] Built target half_float
+[  4%] Built target inplace_decomposition_7
+[  4%] Built target inplace_decomposition_4
+[  4%] Built target inplace_decomposition_2
+[  4%] Built target inplace_decomposition_1
+[  5%] Built target dense_storage
+[  5%] Built target rvalue_types_2
+[  7%] Built target rvalue_types_1
+[  7%] Built target special_numbers_1
+[  7%] Built target vectorwiseop_6
+[  7%] Built target vectorwiseop_5
+[  7%] Built target vectorwiseop_4
+[  7%] Built target prec_inverse_4x4_3
+[  7%] Built target prec_inverse_4x4_2
+[  7%] Built target prec_inverse_4x4_1
+[  7%] Built target sizeoverflow
+[  7%] Built target evaluators
+[  8%] Built target dontalign_6
+[  8%] Built target dontalign_4
+[  8%] Built target inplace_decomposition_5
+[  8%] Built target dontalign_3
+[  8%] Built target dontalign_2
+[  8%] Built target dontalign_1
+[ 10%] Built target nesting_ops_3
+[ 10%] Built target nesting_ops_2
+[ 10%] Built target nesting_ops_1
+[ 11%] Built target umeyama_7
+[ 11%] Built target umeyama_6
+[ 11%] Built target fastmath
+[ 11%] Built target umeyama_5
+[ 11%] Built target umeyama_4
+[ 11%] Built target umeyama_3
+[ 11%] Built target umeyama_2
+[ 11%] Built target product_trmm_13
+[ 11%] Built target geo_alignedbox_4
+[ 11%] Built target eigensolver_selfadjoint_7
+[ 11%] Built target product_trmm_32
+[ 11%] Built target unalignedassert_2
+[ 13%] Built target product_trmm_131
+[ 13%] Built target product_syrk_1
+[ 13%] Built target integer_types_1
+[ 13%] Built target product_trmv_5
+[ 13%] Built target diagonalmatrices_2
+[ 13%] Built target inverse_4
+[ 13%] Built target product_symm_8
+[ 13%] Built target array_for_matrix_2
+[ 13%] Built target product_symm_3
+[ 13%] Built target upperbidiagonalization_3
+[ 14%] Built target boostmultiprec_2
+[ 16%] Built target qr_11
+[ 16%] Built target product_selfadjoint_3
+[ 16%] Built target dontalign_7
+[ 16%] Built target bdcsvd_102
+[ 16%] Built target product_trmv_4
+[ 16%] Built target product_symm_2
+[ 16%] Built target product_trmm_24
+[ 16%] Built target selfadjoint_4
+[ 16%] Built target selfadjoint_2
+[ 16%] Built target product_trmm_133
+[ 17%] Built target product_symm_1
+[ 17%] Built target product_symm_5
+[ 19%] Built target bdcsvd_10
+[ 19%] Built target linearstructure_1
+[ 19%] Built target product_syrk_4
+[ 19%] Built target adjoint_9
+[ 20%] Built target product_selfadjoint_5
+[ 20%] Built target triangular_5
+[ 20%] Built target triangular_4
+[ 20%] Built target basicstuff_4
+[ 20%] Built target triangular_2
+[ 20%] Built target conservative_resize_4
+[ 20%] Built target qr_colpivoting_7
+[ 20%] Built target simplicial_cholesky_1
+[ 22%] Built target product_trmm_1
+[ 22%] Built target corners_2
+[ 22%] Built target ref_3
+[ 22%] Built target ref_2
+[ 22%] Built target block_4
+[ 22%] Built target ref_1
+[ 22%] Built target is_same_dense
+[ 23%] Built target redux_5
+[ 23%] Built target stdlist_2
+[ 23%] Built target array_reverse_9
+[ 23%] Built target array_reverse_7
+[ 23%] Built target array_reverse_4
+[ 23%] Built target array_reverse_2
+[ 23%] Built target array_reverse_1
+[ 23%] Built target lscg_1
+[ 23%] Built target stdvector_4
+[ 23%] Built target array_replicate_5
+[ 23%] Built target real_qz_3
+[ 23%] Built target array_replicate_3
+[ 23%] Built target boostmultiprec_6
+[ 23%] Built target linearstructure_8
+[ 23%] Built target array_replicate_2
+[ 25%] Built target selfadjoint_1
+[ 25%] Built target numext
+[ 25%] Built target eigensolver_generalized_real_3
+[ 26%] Built target miscmatrices_4
+[ 26%] Built target array_for_matrix_1
+[ 26%] Built target mapstaticmethods_7
+[ 26%] Built target householder_8
+[ 26%] Built target array_6
+[ 26%] Built target array_5
+[ 26%] Built target permutationmatrices_7
+[ 27%] Built target mapstaticmethods_8
+[ 29%] Built target linearstructure_4
+[ 29%] Built target bdcsvd_3
+[ 29%] Built target array_for_matrix_4
+[ 29%] Built target vectorwiseop_2
+[ 29%] Built target integer_types_9
+[ 29%] Built target mapstride_3
+[ 29%] Built target eigensolver_selfadjoint_6
+[ 30%] Built target householder_6
+[ 30%] Built target determinant_2
+[ 30%] Built target mapstaticmethods_4
+[ 30%] Built target product_trmm_111
+[ 30%] Built target determinant_5
+[ 30%] Built target inverse_8
+[ 30%] Built target sparse_ref_3
+[ 30%] Built target mapstride_2
+[ 30%] Built target sparse_product_2
+[ 30%] Built target product_trmv_2
+[ 30%] Built target product_trmm_132
+[ 30%] Built target mapped_matrix_7
+[ 30%] Built target bdcsvd_8
+[ 30%] Built target bdcsvd_7
+[ 30%] Built target simplicial_cholesky_2
+[ 30%] Built target mapped_matrix_3
+[ 30%] Built target miscmatrices_5
+[ 30%] Built target miscmatrices_3
+[ 30%] Built target schur_real_2
+[ 30%] Built target hessenberg_3
+[ 30%] Built target mapped_matrix_11
+[ 30%] Built target qr_7
+[ 30%] Built target product_trmm_121
+[ 30%] Built target miscmatrices_1
+[ 30%] Built target geo_orthomethods_4
+[ 30%] Built target qr_fullpivoting_3
+[ 30%] Built target diagonal_1
+[ 30%] Built target dynalloc
+[ 30%] Built target product_trmm_22
+[ 30%] Built target geo_quaternion_2
+[ 30%] Built target array_reverse_6
+[ 30%] Built target triangular_3
+[ 30%] Built target triangular_1
+[ 30%] Built target unalignedassert_4
+[ 30%] Built target adjoint_7
+[ 30%] Built target geo_hyperplane_3
+[ 30%] Built target product_trmm_124
+[ 30%] Built target adjoint_11
+[ 30%] Built target mapstaticmethods_2
+[ 30%] Built target jacobi_3
+[ 30%] Built target adjoint_10
+[ 30%] Built target array_of_string
+[ 30%] Built target adjoint_3
+[ 32%] Built target stddeque_2
+[ 32%] Built target diagonalmatrices_9
+[ 32%] Built target triangular_8
+[ 32%] Built target product_mmtr_3
+[ 32%] Built target diagonal_2
+[ 32%] Built target diagonalmatrices_6
+[ 32%] Built target adjoint_4
+[ 32%] Built target diagonalmatrices_4
+[ 32%] Built target array_1
+[ 32%] Built target array_for_matrix_7
+[ 33%] Built target diagonalmatrices_3
+[ 33%] Built target stdvector_1
+[ 33%] Built target eigensolver_selfadjoint_4
+[ 33%] Built target adjoint_2
+[ 33%] Built target integer_types_2
+[ 33%] Built target umfpack_support_1
+[ 33%] Built target geo_alignedbox_13
+[ 33%] Built target linearstructure_10
+[ 33%] Built target geo_parametrizedline_3
+[ 33%] Built target linearstructure_9
+[ 33%] Built target mixingtypes_3
+[ 33%] Built target schur_real_4
+[ 33%] Built target product_symm_4
+[ 33%] Built target nomalloc_8
+[ 33%] Built target mapstaticmethods_3
+[ 33%] Built target exceptions
+[ 33%] Built target hessenberg_2
+[ 33%] Built target mapped_matrix_8
+[ 33%] Built target geo_parametrizedline_2
+[ 33%] Built target diagonalmatrices_8
+[ 33%] Built target basicstuff_5
+[ 33%] Built target array_replicate_1
+[ 33%] Built target adjoint_12
+[ 33%] Built target jacobisvd_3
+[ 33%] Built target basicstuff_2
+[ 33%] Built target vectorization_logic_2
+[ 33%] Built target householder_2
+[ 33%] Built target mapped_matrix_2
+[ 33%] Built target basicstuff_7
+[ 33%] Built target geo_orthomethods_5
+[ 33%] Built target array_2
+[ 33%] Built target stdlist_overload_5
+[ 33%] Built target visitor_7
+[ 33%] Built target hessenberg_4
+[ 33%] Built target unalignedassert_1
+[ 33%] Built target redux_3
+[ 33%] Built target hessenberg_1
+[ 33%] Built target stdvector_overload_1
+[ 33%] Built target nullary_6
+[ 35%] Built target packetmath_1
+[ 35%] Built target block_3
+[ 35%] Built target schur_real_3
+[ 35%] Built target boostmultiprec_5
+[ 35%] Built target nullary_4
+[ 35%] Built target boostmultiprec_4
+[ 35%] Built target packetmath_5
+[ 35%] Built target redux_1
+[ 35%] Built target householder_4
+[ 35%] Built target mixingtypes_4
+[ 35%] Built target schur_real_5
+[ 35%] Built target unalignedassert_3
+[ 35%] Built target diagonalmatrices_5
+[ 36%] Built target product_small_3
+[ 36%] Built target nomalloc_3
+[ 36%] Built target product_small_5
+[ 36%] Built target sparse_block_3
+[ 36%] Built target mixingtypes_7
+[ 36%] Built target cholmod_support_2
+[ 36%] Built target conservative_resize_6
+[ 36%] Built target mapstride_6
+[ 36%] Built target packetmath_3
+[ 36%] Built target product_small_42
+[ 36%] Built target selfadjoint_3
+[ 36%] Built target product_trmv_6
+[ 36%] Built target product_selfadjoint_2
+[ 36%] Built target product_trmm_23
+[ 36%] Built target geo_homogeneous_3
+[ 36%] Built target product_large_1
+[ 36%] Built target mapstaticmethods_5
+[ 36%] Built target array_reverse_8
+[ 36%] Built target cholesky_2
+[ 36%] Built target array_reverse_3
+[ 36%] Built target eigensolver_generic_1
+[ 36%] Built target umeyama_8
+[ 36%] Built target sparselu_4
+[ 36%] Built target geo_orthomethods_1
+[ 36%] Built target nomalloc_1
+[ 36%] Built target swap_3
+[ 38%] Built target product_mmtr_1
+[ 38%] Built target linearstructure_6
+[ 38%] Built target basicstuff_6
+[ 38%] Built target triangular_7
+[ 38%] Built target linearstructure_11
+[ 38%] Built target product_syrk_2
+[ 38%] Built target bicgstab_1
+[ 38%] Built target rand
+[ 38%] Built target product_trmv_1
+[ 38%] Built target block_2
+[ 38%] Built target cholesky_1
+[ 38%] Built target first_aligned
+[ 38%] Built target product_symm_7
+[ 38%] Built target nomalloc_5
+[ 38%] Built target nomalloc_7
+[ 38%] Built target product_trmm_112
+[ 38%] Built target smallvectors
+[ 38%] Built target basicstuff_3
+[ 38%] Built target stddeque_4
+[ 38%] Built target sizeof
+[ 38%] Built target product_trsolve_2
+[ 38%] Built target nomalloc_6
+[ 38%] Built target block_7
+[ 38%] Built target adjoint_6
+[ 38%] Built target integer_types_3
+[ 38%] Built target swap_4
+[ 38%] Built target constructor_1
+[ 38%] Built target commainitializer
+[ 38%] Built target product_small_12
+[ 38%] Built target visitor_8
+[ 38%] Built target qr_fullpivoting_2
+[ 38%] Built target integer_types_6
+[ 38%] Built target product_large_2
+[ 38%] Built target basicstuff_1
+[ 38%] Built target product_small_32
+[ 38%] Built target ref_5
+[ 38%] Built target swap_1
+[ 38%] Built target ref_7
+[ 38%] Built target cholesky_6
+[ 38%] Built target eigensolver_generic_4
+[ 38%] Built target array_for_matrix_3
+[ 38%] Built target linearstructure_3
+[ 38%] Built target ref_4
+[ 38%] Built target product_extra_8
+[ 38%] Built target vectorwiseop_1
+[ 38%] Built target lu_4
+[ 38%] Built target sparse_product_3
+[ 38%] Built target product_small_41
+[ 38%] Built target inplace_decomposition_6
+[ 38%] Built target nullary_5
+[ 38%] Built target stdvector_overload_4
+[ 38%] Built target adjoint_5
+[ 38%] Built target nullary_8
+[ 38%] Built target nullary_3
+[ 38%] Built target product_trmm_11
+[ 38%] Built target geo_homogeneous_2
+[ 38%] Built target nullary_9
+[ 38%] Built target jacobisvd_8
+[ 38%] Built target nullary_10
+[ 38%] Built target geo_transformations_5
+[ 39%] Built target conservative_resize_5
+[ 39%] Built target mapped_matrix_6
+[ 39%] Built target mixingtypes_1
+[ 41%] Built target array_reverse_5
+[ 41%] Built target redux_2
+[ 41%] Built target product_small_31
+[ 41%] Built target linearstructure_5
+[ 41%] Built target stddeque_overload_5
+[ 41%] Built target product_selfadjoint_7
+[ 41%] Built target integer_types_7
+[ 41%] Built target product_trmv_3
+[ 42%] Built target jacobi_4
+[ 42%] Built target product_small_13
+[ 42%] Built target mixingtypes_5
+[ 42%] Built target corners_3
+[ 42%] Built target redux_4
+[ 42%] Built target sparse_permutations_1
+[ 42%] Built target swap_2
+[ 42%] Built target visitor_2
+[ 42%] Built target lu_6
+[ 42%] Built target visitor_9
+[ 42%] Built target mixingtypes_6
+[ 42%] Built target visitor_10
+[ 42%] Built target product_small_4
+[ 42%] Built target nullary_1
+[ 42%] Built target geo_alignedbox_2
+[ 42%] Built target product_notemporary_4
+[ 42%] Built target stdlist_1
+[ 42%] Built target block_1
+[ 42%] Built target geo_transformations_8
+[ 44%] Built target array_3
+[ 44%] Built target block_5
+[ 44%] Built target block_6
+[ 44%] Built target selfadjoint_5
+[ 44%] Built target stable_norm_4
+[ 44%] Built target block_8
+[ 44%] Built target integer_types_5
+[ 44%] Built target array_for_matrix_5
+[ 45%] Built target geo_alignedbox_12
+[ 45%] Built target visitor_5
+[ 45%] Built target product_trmm_134
+[ 45%] Built target incomplete_cholesky_2
+[ 45%] Built target corners_1
+[ 45%] Built target product_trsolve_1
+[ 45%] Built target product_selfadjoint_6
+[ 45%] Built target jacobisvd_5
+[ 45%] Built target corners_4
+[ 45%] Built target stddeque_overload_3
+[ 45%] Built target array_for_matrix_6
+[ 45%] Built target adjoint_8
+[ 45%] Built target product_small_23
+[ 45%] Built target redux_8
+[ 45%] Built target product_small_43
+[ 45%] Built target diagonalmatrices_7
+[ 45%] Built target integer_types_4
+[ 45%] Built target conservative_resize_1
+[ 45%] Built target product_symm_6
+[ 45%] Built target product_small_21
+[ 45%] Built target stddeque_3
+[ 45%] Built target geo_hyperplane_5
+[ 45%] Built target conservative_resize_3
+[ 45%] Built target product_small_1
+[ 45%] Built target mapped_matrix_4
+[ 45%] Built target product_small_8
+[ 45%] Built target product_small_11
+[ 45%] Built target redux_6
+[ 45%] Built target mapstride_4
+[ 45%] Built target geo_orthomethods_6
+[ 45%] Built target product_small_22
+[ 45%] Built target product_notemporary_3
+[ 45%] Built target conjugate_gradient_3
+[ 45%] Built target product_small_33
+[ 47%] Built target array_for_matrix_8
+[ 47%] Built target mapstaticmethods_1
+[ 47%] Built target product_trsolve_5
+[ 47%] Built target boostmultiprec_9
+[ 47%] Built target product_large_4
+[ 47%] Built target packetmath_4
+[ 47%] Built target geo_parametrizedline_1
+[ 47%] Built target product_extra_2
+[ 47%] Built target product_large_5
+[ 47%] Built target product_extra_1
+[ 48%] Built target cholesky_3
+[ 48%] Built target product_extra_7
+[ 48%] Built target product_extra_4
+[ 48%] Built target product_extra_5
+[ 48%] Built target product_trsolve_11
+[ 48%] Built target product_large_3
+[ 50%] Built target nullary_2
+[ 50%] Built target vectorwiseop_3
+[ 50%] Built target product_extra_6
+[ 50%] Built target upperbidiagonalization_2
+[ 50%] Built target product_trmm_33
+[ 50%] Built target product_trmm_14
+[ 50%] Built target product_trmm_114
+[ 51%] Built target product_trmm_34
+[ 51%] Built target mapped_matrix_9
+[ 51%] Built target product_trsolve_3
+[ 51%] Built target product_trsolve_4
+[ 51%] Built target product_trsolve_6
+[ 51%] Built target product_trsolve_8
+[ 51%] Built target product_trsolve_9
+[ 51%] Built target product_trsolve_10
+[ 51%] Built target geo_hyperplane_1
+[ 51%] Built target product_trsolve_12
+[ 51%] Built target geo_transformations_1
+[ 51%] Built target nomalloc_4
+[ 51%] Built target product_trsolve_13
+[ 51%] Built target stable_norm_5
+[ 51%] Built target inverse_5
+[ 51%] Built target nullary_7
+[ 52%] Built target product_trsolve_14
+[ 52%] Built target determinant_4
+[ 52%] Built target product_mmtr_2
+[ 52%] Built target packetmath_2
+[ 52%] Built target product_mmtr_4
+[ 52%] Built target mapped_matrix_10
+[ 52%] Built target geo_orthomethods_2
+[ 52%] Built target product_notemporary_1
+[ 52%] Built target product_notemporary_2
+[ 52%] Built target triangular_6
+[ 52%] Built target stable_norm_1
+[ 52%] Built target stable_norm_3
+[ 52%] Built target sparse_ref_2
+[ 52%] Built target resize
+[ 52%] Built target stdlist_3
+[ 52%] Built target permutationmatrices_2
+[ 52%] Built target sparse_basic_7
+[ 52%] Built target permutationmatrices_3
+[ 52%] Built target permutationmatrices_5
+[ 52%] Built target geo_quaternion_6
+[ 52%] Built target permutationmatrices_6
+[ 52%] Built target bandmatrix
+[ 52%] Built target bdcsvd_5
+[ 52%] Built target cholesky_4
+[ 52%] Built target cholesky_5
+[ 54%] Built target eigensolver_generic_3
+[ 54%] Built target cholesky_7
+[ 54%] Built target cholesky_9
+[ 54%] Built target lu_1
+[ 54%] Built target lu_2
+[ 54%] Built target visitor_1
+[ 54%] Built target jacobisvd_10
+[ 54%] Built target lu_3
+[ 54%] Built target product_trmm_123
+[ 54%] Built target lu_7
+[ 54%] Built target superlu_support_1
+[ 54%] Built target stddeque_overload_1
+[ 54%] Built target spqr_support_1
+[ 55%] Built target qr_fullpivoting_6
+[ 55%] Built target determinant_1
+[ 55%] Built target diagonalmatrices_10
+[ 55%] Built target sparselu_1
+[ 55%] Built target linearstructure_2
+[ 55%] Built target product_trmm_31
+[ 55%] Built target determinant_3
+[ 55%] Built target dontalign_5
+[ 55%] Built target determinant_6
+[ 55%] Built target geo_alignedbox_5
+[ 55%] Built target inverse_1
+[ 55%] Built target eigensolver_selfadjoint_12
+[ 57%] Built target inverse_2
+[ 57%] Built target inverse_3
+[ 57%] Built target qr_1
+[ 57%] Built target visitor_3
+[ 57%] Built target stdlist_overload_4
+[ 57%] Built target qr_2
+[ 57%] Built target eigensolver_selfadjoint_13
+[ 57%] Built target qr_3
+[ 57%] Built target qr_4
+[ 57%] Built target qr_5
+[ 57%] Built target qr_6
+[ 57%] Built target qr_8
+[ 57%] Built target qr_9
+[ 57%] Built target qr_10
+[ 57%] Built target qr_12
+[ 57%] Built target geo_quaternion_3
+[ 57%] Built target qr_colpivoting_1
+[ 57%] Built target nomalloc_2
+[ 57%] Built target inverse_7
+[ 57%] Built target qr_colpivoting_2
+[ 58%] Built target qr_colpivoting_3
+[ 58%] Built target qr_colpivoting_5
+[ 58%] Built target qr_colpivoting_6
+[ 58%] Built target qr_colpivoting_8
+[ 58%] Built target qr_fullpivoting_1
+[ 58%] Built target qr_fullpivoting_4
+[ 58%] Built target qr_fullpivoting_5
+[ 58%] Built target qr_fullpivoting_7
+[ 58%] Built target upperbidiagonalization_1
+[ 60%] Built target upperbidiagonalization_4
+[ 60%] Built target eigensolver_generic_5
+[ 60%] Built target upperbidiagonalization_6
+[ 60%] Built target conservative_resize_2
+[ 60%] Built target upperbidiagonalization_7
+[ 60%] Built target hessenberg_5
+[ 60%] Built target hessenberg_6
+[ 60%] Built target schur_real_1
+[ 60%] Built target inverse_6
+[ 60%] Built target sparse_permutations_2
+[ 60%] Built target product_syrk_3
+[ 60%] Built target qr_colpivoting_4
+[ 60%] Built target jacobisvd_12
+[ 60%] Built target schur_complex_1
+[ 60%] Built target product_trmm_12
+[ 60%] Built target schur_complex_2
+[ 60%] Built target product_trmm_122
+[ 60%] Built target schur_complex_3
+[ 60%] Built target product_selfadjoint_1
+[ 60%] Built target schur_complex_4
+[ 60%] Built target schur_complex_5
+[ 60%] Built target eigensolver_selfadjoint_1
+[ 60%] Built target sparselu_2
+[ 60%] Built target sparse_ref_1
+[ 60%] Built target ctorleak
+[ 60%] Built target eigensolver_selfadjoint_2
+[ 60%] Built target eigensolver_selfadjoint_3
+[ 60%] Built target eigensolver_selfadjoint_5
+[ 60%] Built target eigensolver_selfadjoint_9
+[ 60%] Built target eigensolver_complex_4
+[ 61%] Built target adjoint_13
+[ 61%] Built target eigensolver_generic_2
+[ 61%] Built target eigensolver_complex_1
+[ 61%] Built target eigensolver_complex_2
+[ 61%] Built target eigensolver_complex_3
+[ 61%] Built target product_large_6
+[ 61%] Built target geo_transformations_3
+[ 61%] Built target eigensolver_complex_5
+[ 61%] Built target real_qz_1
+[ 61%] Built target real_qz_2
+[ 61%] Built target real_qz_4
+[ 61%] Built target eigensolver_generalized_real_1
+[ 61%] Built target eigensolver_generalized_real_2
+[ 61%] Built target stdlist_overload_1
+[ 61%] Built target stable_norm_2
+[ 61%] Built target eigensolver_generalized_real_4
+[ 61%] Built target miscmatrices_2
+[ 61%] Built target product_small_7
+[ 61%] Built target jacobi_1
+[ 61%] Built target jacobi_2
+[ 61%] Built target permutationmatrices_1
+[ 61%] Built target jacobi_6
+[ 61%] Built target jacobisvd_4
+[ 61%] Built target triangular_9
+[ 61%] Built target jacobisvd_7
+[ 61%] Built target jacobisvd_11
+[ 61%] Built target jacobisvd_13
+[ 63%] Built target jacobisvd_6
+[ 63%] Built target inplace_decomposition_3
+[ 63%] Built target geo_alignedbox_11
+[ 63%] Built target jacobisvd_1
+[ 63%] Built target mixingtypes_2
+[ 63%] Built target stdvector_overload_2
+[ 63%] Built target vectorization_logic_1
+[ 63%] Built target jacobisvd_2
+[ 63%] Built target bdcsvd_4
+[ 63%] Built target bdcsvd_101
+[ 63%] Built target product_trsolve_7
+[ 63%] Built target stddeque_1
+[ 63%] Built target mapstride_5
+[ 63%] Built target bdcsvd_6
+[ 63%] Built target meta
+[ 63%] Built target bdcsvd_1
+[ 64%] Built target zerosized
+[ 64%] Built target bdcsvd_9
+[ 64%] Built target bdcsvd_2
+[ 64%] Built target dontalign_8
+[ 64%] Built target householder_1
+[ 64%] Built target householder_3
+[ 64%] Built target householder_5
+[ 66%] Built target geo_orthomethods_3
+[ 66%] Built target sparseqr_1
+[ 66%] Built target geo_quaternion_1
+[ 66%] Built target redux_7
+[ 66%] Built target geo_quaternion_4
+[ 66%] Built target conjugate_gradient_1
+[ 67%] Built target geo_quaternion_5
+[ 67%] Built target inplace_decomposition_8
+[ 67%] Built target geo_eulerangles_1
+[ 67%] Built target nesting_ops_4
+[ 67%] Built target geo_parametrizedline_4
+[ 69%] Built target vectorwiseop_7
+[ 69%] Built target mapstride_1
+[ 69%] Built target cholesky_8
+[ 69%] Built target geo_alignedbox_1
+[ 69%] Built target geo_alignedbox_3
+[ 69%] Built target geo_alignedbox_6
+[ 69%] Built target geo_alignedbox_7
+[ 69%] Built target geo_alignedbox_8
+[ 69%] Built target mapstaticmethods_6
+[ 69%] Built target geo_alignedbox_9
+[ 69%] Built target upperbidiagonalization_5
+[ 69%] Built target geo_alignedbox_10
+[ 69%] Built target integer_types_8
+[ 69%] Built target geo_alignedbox_14
+[ 70%] Built target lu_5
+[ 70%] Built target geo_hyperplane_2
+[ 70%] Built target adjoint_1
+[ 70%] Built target geo_hyperplane_4
+[ 70%] Built target diagonalmatrices_1
+[ 70%] Built target jacobisvd_9
+[ 70%] Built target geo_transformations_4
+[ 70%] Built target geo_transformations_2
+[ 72%] Built target geo_eulerangles_2
+[ 72%] Built target geo_transformations_6
+[ 72%] Built target unalignedcount
+[ 73%] Built target product_extra_3
+[ 73%] Built target product_trmm_21
+[ 73%] Built target geo_transformations_7
+[ 73%] Built target geo_homogeneous_1
+[ 73%] Built target householder_7
+[ 73%] Built target umeyama_1
+[ 73%] Built target linearstructure_7
+[ 73%] Built target stdvector_2
+[ 73%] Built target stdvector_3
+[ 73%] Built target stdvector_overload_3
+[ 73%] Built target ref_6
+[ 73%] Built target stdvector_overload_5
+[ 73%] Built target permutationmatrices_4
+[ 75%] Built target stdlist_4
+[ 75%] Built target qr_colpivoting_9
+[ 75%] Built target stdlist_5
+[ 75%] Built target corners_5
+[ 75%] Built target stdlist_overload_2
+[ 75%] Built target jacobi_5
+[ 75%] Built target stdlist_overload_3
+[ 76%] Built target stdvector_5
+[ 76%] Built target stddeque_5
+[ 76%] Built target stddeque_overload_2
+[ 76%] Built target product_small_6
+[ 76%] Built target visitor_4
+[ 76%] Built target stddeque_overload_4
+[ 77%] Built target sparse_basic_1
+[ 77%] Built target array_4
+[ 77%] Built target sparse_basic_5
+[ 77%] Built target sparse_basic_6
+[ 77%] Built target sparse_basic_3
+[ 77%] Built target sparse_basic_4
+[ 77%] Built target visitor_6
+[ 77%] Built target sparse_block_2
+[ 77%] Built target lu_9
+[ 77%] Built target sparse_block_4
+[ 79%] Built target eigensolver_selfadjoint_8
+[ 79%] Built target array_replicate_6
+[ 79%] Built target sparse_vector_1
+[ 79%] Built target product_small_2
+[ 79%] Built target sparse_vector_2
+[ 79%] Built target sparse_product_1
+[ 79%] Built target sparse_product_4
+[ 79%] Built target array_replicate_4
+[ 79%] Built target sparse_product_5
+[ 80%] Built target sparse_solvers_1
+[ 80%] Built target mpl2only
+[ 82%] Built target mapped_matrix_5
+[ 82%] Built target sparse_solvers_2
+[ 82%] Built target simplicial_cholesky_3
+[ 82%] Built target conjugate_gradient_2
+[ 82%] Built target mapped_matrix_1
+[ 82%] Built target incomplete_cholesky_1
+[ 82%] Built target incomplete_cholesky_3
+[ 83%] Built target bicgstab_2
+[ 83%] Built target product_selfadjoint_4
+[ 83%] Built target product_trmm_113
+[ 83%] Built target bicgstab_3
+[ 83%] Built target lscg_2
+[ 83%] Built target sparse_block_1
+[ 83%] Built target sparselu_3
+[ 83%] Built target sparseqr_2
+[ 83%] Built target cxx11_tensor_uint128_5
+[ 83%] Built target cxx11_tensor_uint128_4
+[ 83%] Built target cxx11_tensor_uint128_3
+[ 83%] Built target cxx11_tensor_uint128_2
+[ 83%] Built target cxx11_tensor_uint128_6
+[ 85%] Built target cxx11_tensor_io
+[ 85%] Built target cxx11_tensor_sugar
+[ 85%] Built target cxx11_tensor_empty
+[ 85%] Built target cxx11_tensor_casts
+[ 85%] Built target cxx11_tensor_intdiv_7
+[ 85%] Built target cxx11_tensor_intdiv_6
+[ 85%] Built target cxx11_tensor_intdiv_5
+[ 85%] Built target cxx11_tensor_intdiv_3
+[ 86%] Built target cxx11_tensor_const
+[ 86%] Built target cxx11_tensor_math
+[ 86%] Built target cxx11_tensor_comparisons
+[ 86%] Built target cxx11_tensor_assign
+[ 86%] Built target special_functions_1
+[ 86%] Built target kronecker_product_2
+[ 86%] Built target minres_2
+[ 86%] Built target minres_1
+[ 86%] Built target splines
+[ 86%] Built target polynomialutils_8
+[ 88%] Built target polynomialutils_3
+[ 88%] Built target cxx11_tensor_intdiv_1
+[ 88%] Built target polynomialutils_2
+[ 88%] Built target matrix_function_3
+[ 88%] Built target polynomialutils_5
+[ 88%] Built target matrix_function_2
+[ 88%] Built target matrix_function_1
+[ 88%] Built target matrix_exponential_9
+[ 88%] Built target autodiff_5
+[ 88%] Built target cxx11_tensor_roundings
+[ 88%] Built target gmres_1
+[ 88%] Built target matrix_exponential_3
+[ 88%] Built target kronecker_product_1
+[ 89%] Built target matrix_exponential_5
+[ 89%] Built target matrix_power_8
+[ 89%] Built target polynomialsolver_10
+[ 89%] Built target matrix_exponential_6
+[ 89%] Built target sparse_extra_1
+[ 89%] Built target matrix_exponential_1
+[ 89%] Built target matrix_function_5
+[ 91%] Built target autodiff_scalar_3
+[ 91%] Built target matrix_exponential_8
+[ 91%] Built target cxx11_tensor_intdiv_2
+[ 91%] Built target BVH_3
+[ 91%] Built target autodiff_scalar_1
+[ 91%] Built target matrix_exponential_2
+[ 92%] Built target EulerAngles_1
+[ 92%] Built target autodiff_scalar_2
+[ 92%] Built target matrix_power_3
+[ 92%] Built target cxx11_tensor_map
+[ 92%] Built target polynomialutils_4
+[ 92%] Built target matrix_square_root_4
+[ 92%] Built target cxx11_tensor_dimension
+[ 94%] Built target special_functions_2
+[ 94%] Built target NonLinearOptimization
+[ 94%] Built target polynomialsolver_3
+[ 94%] Built target cxx11_tensor_layout_swap
+[ 94%] Built target matrix_exponential_7
+[ 94%] Built target autodiff_scalar_5
+[ 94%] Built target matrix_power_5
+[ 94%] Built target levenberg_marquardt
+[ 94%] Built target autodiff_1
+[ 94%] Built target polynomialutils_7
+[ 94%] Built target matrix_power_12
+[ 94%] Built target polynomialsolver_8
+[ 94%] Built target autodiff_4
+[ 94%] Built target NumericalDiff
+[ 94%] Built target polynomialutils_9
+[ 95%] Built target sparse_extra_2
+[ 95%] Built target autodiff_2
+[ 95%] Built target autodiff_3
+[ 95%] Built target matrix_power_6
+[ 95%] Built target polynomialsolver_9
+[ 95%] Built target matrix_exponential_4
+[ 95%] Built target matrix_function_7
+[ 97%] Built target matrix_square_root_1
+[ 97%] Built target matrix_power_11
+[ 97%] Built target cxx11_tensor_intdiv_4
+[ 97%] Built target autodiff_scalar_4
+[ 97%] Built target matrix_square_root_3
+[ 97%] Built target matrix_power_2
+[ 97%] Built target matrix_power_9
+[ 98%] Built target matrix_power_1
+[ 98%] Built target matrix_power_10
+[ 98%] Built target matrix_power_7
+[ 98%] Built target BVH_2
+[ 98%] Built target openglsupport
+[ 98%] Built target matrix_power_4
+[ 98%] Built target polynomialutils_6
+[ 98%] Built target polynomialsolver_7
+[ 98%] Built target polynomialsolver_6
+[ 98%] Built target cxx11_tensor_forced_eval
+[ 98%] Built target BVH_1
+[ 98%] Built target alignedvector3
+[ 98%] Built target matrix_function_4
+[ 98%] Built target matrix_square_root_2
+[ 98%] Built target matrix_function_6
+[ 98%] Built target matrix_square_root_5
+[ 98%] Built target FFT
+[ 98%] Built target EulerAngles_2
+[ 98%] Built target gmres_2
+[ 98%] Built target sparse_extra_3
+[100%] Built target polynomialsolver_1
+[100%] Built target polynomialsolver_2
+[100%] Built target polynomialsolver_4
+[100%] Built target cxx11_tensor_uint128_1
+[100%] Built target polynomialsolver_5
+[100%] Built target buildtests
+Test project /home/sineva-sys-master/Documents/Github/eigen_neon/build
+        Start   1: rand
+  1/794 Test   #1: rand .............................   Passed    5.97 sec
+        Start   2: meta
+  2/794 Test   #2: meta .............................   Passed    0.00 sec
+        Start   3: numext
+  3/794 Test   #3: numext ...........................   Passed    0.00 sec
+        Start   4: sizeof
+  4/794 Test   #4: sizeof ...........................   Passed    0.00 sec
+        Start   5: dynalloc
+  5/794 Test   #5: dynalloc .........................   Passed    0.00 sec
+        Start   6: nomalloc_1
+  6/794 Test   #6: nomalloc_1 .......................   Passed    0.00 sec
+        Start   7: nomalloc_2
+  7/794 Test   #7: nomalloc_2 .......................   Passed    0.00 sec
+        Start   8: nomalloc_3
+  8/794 Test   #8: nomalloc_3 .......................   Passed    0.00 sec
+        Start   9: nomalloc_4
+  9/794 Test   #9: nomalloc_4 .......................   Passed    0.01 sec
+        Start  10: nomalloc_5
+ 10/794 Test  #10: nomalloc_5 .......................   Passed    0.00 sec
+        Start  11: nomalloc_6
+ 11/794 Test  #11: nomalloc_6 .......................   Passed    0.00 sec
+        Start  12: nomalloc_7
+ 12/794 Test  #12: nomalloc_7 .......................   Passed    0.00 sec
+        Start  13: nomalloc_8
+ 13/794 Test  #13: nomalloc_8 .......................   Passed    0.00 sec
+        Start  14: first_aligned
+ 14/794 Test  #14: first_aligned ....................   Passed    0.00 sec
+        Start  15: nullary_1
+ 15/794 Test  #15: nullary_1 ........................   Passed    0.00 sec
+        Start  16: nullary_2
+ 16/794 Test  #16: nullary_2 ........................   Passed    0.00 sec
+        Start  17: nullary_3
+ 17/794 Test  #17: nullary_3 ........................   Passed    0.00 sec
+        Start  18: nullary_4
+ 18/794 Test  #18: nullary_4 ........................   Passed    0.07 sec
+        Start  19: nullary_5
+ 19/794 Test  #19: nullary_5 ........................   Passed    0.00 sec
+        Start  20: nullary_6
+ 20/794 Test  #20: nullary_6 ........................   Passed    0.00 sec
+        Start  21: nullary_7
+ 21/794 Test  #21: nullary_7 ........................   Passed    0.05 sec
+        Start  22: nullary_8
+ 22/794 Test  #22: nullary_8 ........................   Passed    0.00 sec
+        Start  23: nullary_9
+ 23/794 Test  #23: nullary_9 ........................   Passed    0.01 sec
+        Start  24: nullary_10
+ 24/794 Test  #24: nullary_10 .......................   Passed    0.00 sec
+        Start  25: mixingtypes_7
+ 25/794 Test  #25: mixingtypes_7 ....................   Passed    0.00 sec
+        Start  26: mixingtypes_1
+ 26/794 Test  #26: mixingtypes_1 ....................   Passed    0.00 sec
+        Start  27: mixingtypes_2
+ 27/794 Test  #27: mixingtypes_2 ....................   Passed    0.01 sec
+        Start  28: mixingtypes_3
+ 28/794 Test  #28: mixingtypes_3 ....................   Passed   12.77 sec
+        Start  29: mixingtypes_4
+ 29/794 Test  #29: mixingtypes_4 ....................   Passed    0.01 sec
+        Start  30: mixingtypes_5
+ 30/794 Test  #30: mixingtypes_5 ....................   Passed    0.01 sec
+        Start  31: mixingtypes_6
+ 31/794 Test  #31: mixingtypes_6 ....................   Passed    1.73 sec
+        Start  32: packetmath_1
+ 32/794 Test  #32: packetmath_1 .....................   Passed    0.00 sec
+        Start  33: packetmath_2
+ 33/794 Test  #33: packetmath_2 .....................   Passed    0.00 sec
+        Start  34: packetmath_3
+ 34/794 Test  #34: packetmath_3 .....................   Passed    0.00 sec
+        Start  35: packetmath_4
+ 35/794 Test  #35: packetmath_4 .....................   Passed    0.00 sec
+        Start  36: packetmath_5
+ 36/794 Test  #36: packetmath_5 .....................   Passed    0.00 sec
+        Start  37: unalignedassert_1
+ 37/794 Test  #37: unalignedassert_1 ................   Passed    0.00 sec
+        Start  38: unalignedassert_2
+ 38/794 Test  #38: unalignedassert_2 ................   Passed    0.00 sec
+        Start  39: unalignedassert_3
+ 39/794 Test  #39: unalignedassert_3 ................   Passed    0.00 sec
+        Start  40: unalignedassert_4
+ 40/794 Test  #40: unalignedassert_4 ................   Passed    0.00 sec
+        Start  41: vectorization_logic_1
+ 41/794 Test  #41: vectorization_logic_1 ............   Passed    0.00 sec
+        Start  42: vectorization_logic_2
+ 42/794 Test  #42: vectorization_logic_2 ............   Passed    0.00 sec
+        Start  43: basicstuff_2
+ 43/794 Test  #43: basicstuff_2 .....................   Passed    0.00 sec
+        Start  44: basicstuff_1
+ 44/794 Test  #44: basicstuff_1 .....................   Passed    0.00 sec
+        Start  45: basicstuff_3
+ 45/794 Test  #45: basicstuff_3 .....................   Passed    0.04 sec
+        Start  46: basicstuff_4
+ 46/794 Test  #46: basicstuff_4 .....................   Passed    0.03 sec
+        Start  47: basicstuff_5
+ 47/794 Test  #47: basicstuff_5 .....................   Passed    0.04 sec
+        Start  48: basicstuff_6
+ 48/794 Test  #48: basicstuff_6 .....................   Passed    0.01 sec
+        Start  49: basicstuff_7
+ 49/794 Test  #49: basicstuff_7 .....................   Passed    0.07 sec
+        Start  50: constructor_1
+ 50/794 Test  #50: constructor_1 ....................   Passed    0.02 sec
+        Start  51: linearstructure_1
+ 51/794 Test  #51: linearstructure_1 ................   Passed    0.00 sec
+        Start  52: linearstructure_2
+ 52/794 Test  #52: linearstructure_2 ................   Passed    0.00 sec
+        Start  53: linearstructure_3
+ 53/794 Test  #53: linearstructure_3 ................   Passed    0.00 sec
+        Start  54: linearstructure_4
+ 54/794 Test  #54: linearstructure_4 ................   Passed    0.00 sec
+        Start  55: linearstructure_5
+ 55/794 Test  #55: linearstructure_5 ................   Passed    0.01 sec
+        Start  56: linearstructure_6
+ 56/794 Test  #56: linearstructure_6 ................   Passed    0.01 sec
+        Start  57: linearstructure_7
+ 57/794 Test  #57: linearstructure_7 ................   Passed    0.01 sec
+        Start  58: linearstructure_8
+ 58/794 Test  #58: linearstructure_8 ................   Passed    0.01 sec
+        Start  59: linearstructure_9
+ 59/794 Test  #59: linearstructure_9 ................   Passed    0.01 sec
+        Start  60: linearstructure_10
+ 60/794 Test  #60: linearstructure_10 ...............   Passed    0.04 sec
+        Start  61: linearstructure_11
+ 61/794 Test  #61: linearstructure_11 ...............   Passed    0.00 sec
+        Start  62: integer_types_1
+ 62/794 Test  #62: integer_types_1 ..................   Passed    0.00 sec
+        Start  63: integer_types_2
+ 63/794 Test  #63: integer_types_2 ..................   Passed    0.00 sec
+        Start  64: integer_types_3
+ 64/794 Test  #64: integer_types_3 ..................   Passed    0.00 sec
+        Start  65: integer_types_4
+ 65/794 Test  #65: integer_types_4 ..................   Passed    0.00 sec
+        Start  66: integer_types_5
+ 66/794 Test  #66: integer_types_5 ..................   Passed    0.00 sec
+        Start  67: integer_types_6
+ 67/794 Test  #67: integer_types_6 ..................   Passed    0.00 sec
+        Start  68: integer_types_7
+ 68/794 Test  #68: integer_types_7 ..................   Passed    0.00 sec
+        Start  69: integer_types_8
+ 69/794 Test  #69: integer_types_8 ..................   Passed    0.00 sec
+        Start  70: integer_types_9
+ 70/794 Test  #70: integer_types_9 ..................   Passed    0.00 sec
+        Start  71: unalignedcount
+ 71/794 Test  #71: unalignedcount ...................   Passed    0.00 sec
+        Start  72: exceptions
+ 72/794 Test  #72: exceptions .......................   Passed    0.01 sec
+        Start  73: redux_1
+ 73/794 Test  #73: redux_1 ..........................   Passed    0.00 sec
+        Start  74: redux_2
+ 74/794 Test  #74: redux_2 ..........................   Passed    0.00 sec
+        Start  75: redux_3
+ 75/794 Test  #75: redux_3 ..........................   Passed    0.00 sec
+        Start  76: redux_4
+ 76/794 Test  #76: redux_4 ..........................   Passed    0.02 sec
+        Start  77: redux_5
+ 77/794 Test  #77: redux_5 ..........................   Passed    0.01 sec
+        Start  78: redux_6
+ 78/794 Test  #78: redux_6 ..........................   Passed    0.01 sec
+        Start  79: redux_7
+ 79/794 Test  #79: redux_7 ..........................   Passed    0.00 sec
+        Start  80: redux_8
+ 80/794 Test  #80: redux_8 ..........................   Passed    0.01 sec
+        Start  81: visitor_1
+ 81/794 Test  #81: visitor_1 ........................   Passed    0.00 sec
+        Start  82: visitor_2
+ 82/794 Test  #82: visitor_2 ........................   Passed    0.00 sec
+        Start  83: visitor_3
+ 83/794 Test  #83: visitor_3 ........................   Passed    0.00 sec
+        Start  84: visitor_4
+ 84/794 Test  #84: visitor_4 ........................   Passed    0.00 sec
+        Start  85: visitor_5
+ 85/794 Test  #85: visitor_5 ........................   Passed    0.01 sec
+        Start  86: visitor_6
+ 86/794 Test  #86: visitor_6 ........................   Passed    0.00 sec
+        Start  87: visitor_7
+ 87/794 Test  #87: visitor_7 ........................   Passed    0.00 sec
+        Start  88: visitor_8
+ 88/794 Test  #88: visitor_8 ........................   Passed    0.00 sec
+        Start  89: visitor_9
+ 89/794 Test  #89: visitor_9 ........................   Passed    0.00 sec
+        Start  90: visitor_10
+ 90/794 Test  #90: visitor_10 .......................   Passed    0.00 sec
+        Start  91: block_1
+ 91/794 Test  #91: block_1 ..........................   Passed    0.00 sec
+        Start  92: block_2
+ 92/794 Test  #92: block_2 ..........................   Passed    0.00 sec
+        Start  93: block_3
+ 93/794 Test  #93: block_3 ..........................   Passed    0.00 sec
+        Start  94: block_4
+ 94/794 Test  #94: block_4 ..........................   Passed    0.00 sec
+        Start  95: block_5
+ 95/794 Test  #95: block_5 ..........................   Passed    0.00 sec
+        Start  96: block_6
+ 96/794 Test  #96: block_6 ..........................   Passed    0.00 sec
+        Start  97: block_8
+ 97/794 Test  #97: block_8 ..........................   Passed    0.00 sec
+        Start  98: block_7
+ 98/794 Test  #98: block_7 ..........................   Passed    0.00 sec
+        Start  99: corners_1
+ 99/794 Test  #99: corners_1 ........................   Passed    0.00 sec
+        Start 100: corners_2
+100/794 Test #100: corners_2 ........................   Passed    0.00 sec
+        Start 101: corners_3
+101/794 Test #101: corners_3 ........................   Passed    0.00 sec
+        Start 102: corners_4
+102/794 Test #102: corners_4 ........................   Passed    0.00 sec
+        Start 103: corners_5
+103/794 Test #103: corners_5 ........................   Passed    0.00 sec
+        Start 104: swap_1
+104/794 Test #104: swap_1 ...........................   Passed    0.00 sec
+        Start 105: swap_2
+105/794 Test #105: swap_2 ...........................   Passed    0.00 sec
+        Start 106: swap_3
+106/794 Test #106: swap_3 ...........................   Passed    0.01 sec
+        Start 107: swap_4
+107/794 Test #107: swap_4 ...........................   Passed    0.01 sec
+        Start 108: resize
+108/794 Test #108: resize ...........................   Passed    0.00 sec
+        Start 109: conservative_resize_1
+109/794 Test #109: conservative_resize_1 ............   Passed    0.04 sec
+        Start 110: conservative_resize_2
+110/794 Test #110: conservative_resize_2 ............   Passed    0.04 sec
+        Start 111: conservative_resize_3
+111/794 Test #111: conservative_resize_3 ............   Passed    0.05 sec
+        Start 112: conservative_resize_4
+112/794 Test #112: conservative_resize_4 ............   Passed    0.07 sec
+        Start 113: conservative_resize_5
+113/794 Test #113: conservative_resize_5 ............   Passed    0.05 sec
+        Start 114: conservative_resize_6
+114/794 Test #114: conservative_resize_6 ............   Passed    0.04 sec
+        Start 115: product_small_1
+115/794 Test #115: product_small_1 ..................   Passed    0.00 sec
+        Start 116: product_small_2
+116/794 Test #116: product_small_2 ..................   Passed    0.00 sec
+        Start 117: product_small_8
+117/794 Test #117: product_small_8 ..................   Passed    0.00 sec
+        Start 118: product_small_3
+118/794 Test #118: product_small_3 ..................   Passed    0.00 sec
+        Start 119: product_small_4
+119/794 Test #119: product_small_4 ..................   Passed    0.00 sec
+        Start 120: product_small_5
+120/794 Test #120: product_small_5 ..................   Passed    0.00 sec
+        Start 121: product_small_6
+121/794 Test #121: product_small_6 ..................   Passed    0.00 sec
+        Start 122: product_small_11
+122/794 Test #122: product_small_11 .................   Passed    0.00 sec
+        Start 123: product_small_12
+123/794 Test #123: product_small_12 .................   Passed    0.00 sec
+        Start 124: product_small_13
+124/794 Test #124: product_small_13 .................   Passed    0.01 sec
+        Start 125: product_small_21
+125/794 Test #125: product_small_21 .................   Passed    0.00 sec
+        Start 126: product_small_22
+126/794 Test #126: product_small_22 .................   Passed    0.00 sec
+        Start 127: product_small_23
+127/794 Test #127: product_small_23 .................   Passed    0.01 sec
+        Start 128: product_small_31
+128/794 Test #128: product_small_31 .................   Passed    0.00 sec
+        Start 129: product_small_32
+129/794 Test #129: product_small_32 .................   Passed    0.01 sec
+        Start 130: product_small_33
+130/794 Test #130: product_small_33 .................   Passed    0.02 sec
+        Start 131: product_small_41
+131/794 Test #131: product_small_41 .................   Passed    0.00 sec
+        Start 132: product_small_42
+132/794 Test #132: product_small_42 .................   Passed    0.00 sec
+        Start 133: product_small_43
+133/794 Test #133: product_small_43 .................   Passed    0.01 sec
+        Start 134: product_small_7
+134/794 Test #134: product_small_7 ..................   Passed    0.00 sec
+        Start 135: product_large_1
+135/794 Test #135: product_large_1 ..................   Passed    0.47 sec
+        Start 136: product_large_2
+136/794 Test #136: product_large_2 ..................   Passed    0.31 sec
+        Start 137: product_large_3
+137/794 Test #137: product_large_3 ..................   Passed    0.38 sec
+        Start 138: product_large_4
+138/794 Test #138: product_large_4 ..................   Passed    0.55 sec
+        Start 139: product_large_5
+139/794 Test #139: product_large_5 ..................   Passed    0.53 sec
+        Start 140: product_large_6
+140/794 Test #140: product_large_6 ..................   Passed    0.02 sec
+        Start 141: product_extra_1
+141/794 Test #141: product_extra_1 ..................   Passed    0.11 sec
+        Start 142: product_extra_2
+142/794 Test #142: product_extra_2 ..................   Passed    0.12 sec
+        Start 143: product_extra_3
+143/794 Test #143: product_extra_3 ..................   Passed    0.16 sec
+        Start 144: product_extra_4
+144/794 Test #144: product_extra_4 ..................   Passed    0.30 sec
+        Start 145: product_extra_5
+145/794 Test #145: product_extra_5 ..................   Passed    0.00 sec
+        Start 146: product_extra_6
+146/794 Test #146: product_extra_6 ..................   Passed    0.00 sec
+        Start 147: product_extra_7
+147/794 Test #147: product_extra_7 ..................   Passed    0.00 sec
+        Start 148: product_extra_8
+148/794 Test #148: product_extra_8 ..................   Passed    0.00 sec
+        Start 149: diagonalmatrices_1
+149/794 Test #149: diagonalmatrices_1 ...............   Passed    0.00 sec
+        Start 150: diagonalmatrices_2
+150/794 Test #150: diagonalmatrices_2 ...............   Passed    0.00 sec
+        Start 151: diagonalmatrices_3
+151/794 Test #151: diagonalmatrices_3 ...............   Passed    0.00 sec
+        Start 152: diagonalmatrices_4
+152/794 Test #152: diagonalmatrices_4 ...............   Passed    0.00 sec
+        Start 153: diagonalmatrices_5
+153/794 Test #153: diagonalmatrices_5 ...............   Passed    0.00 sec
+        Start 154: diagonalmatrices_6
+154/794 Test #154: diagonalmatrices_6 ...............   Passed    0.14 sec
+        Start 155: diagonalmatrices_7
+155/794 Test #155: diagonalmatrices_7 ...............   Passed    0.07 sec
+        Start 156: diagonalmatrices_8
+156/794 Test #156: diagonalmatrices_8 ...............   Passed    0.07 sec
+        Start 157: diagonalmatrices_9
+157/794 Test #157: diagonalmatrices_9 ...............   Passed    0.02 sec
+        Start 158: diagonalmatrices_10
+158/794 Test #158: diagonalmatrices_10 ..............   Passed    0.00 sec
+        Start 159: adjoint_1
+159/794 Test #159: adjoint_1 ........................   Passed    0.00 sec
+        Start 160: adjoint_2
+160/794 Test #160: adjoint_2 ........................   Passed    0.00 sec
+        Start 161: adjoint_3
+161/794 Test #161: adjoint_3 ........................   Passed    0.00 sec
+        Start 162: adjoint_4
+162/794 Test #162: adjoint_4 ........................   Passed    0.02 sec
+        Start 163: adjoint_5
+163/794 Test #163: adjoint_5 ........................   Passed    0.07 sec
+        Start 164: adjoint_6
+164/794 Test #164: adjoint_6 ........................   Passed    0.02 sec
+        Start 165: adjoint_8
+165/794 Test #165: adjoint_8 ........................   Passed    0.00 sec
+        Start 166: adjoint_9
+166/794 Test #166: adjoint_9 ........................   Passed    0.00 sec
+        Start 167: adjoint_10
+167/794 Test #167: adjoint_10 .......................   Passed    0.00 sec
+        Start 168: adjoint_11
+168/794 Test #168: adjoint_11 .......................   Passed    0.00 sec
+        Start 169: adjoint_12
+169/794 Test #169: adjoint_12 .......................   Passed    0.00 sec
+        Start 170: adjoint_7
+170/794 Test #170: adjoint_7 ........................   Passed    0.00 sec
+        Start 171: adjoint_13
+171/794 Test #171: adjoint_13 .......................   Passed    0.00 sec
+        Start 172: diagonal_1
+172/794 Test #172: diagonal_1 .......................   Passed    0.02 sec
+        Start 173: diagonal_2
+173/794 Test #173: diagonal_2 .......................   Passed    0.03 sec
+        Start 174: miscmatrices_1
+174/794 Test #174: miscmatrices_1 ...................   Passed    0.00 sec
+        Start 175: miscmatrices_2
+175/794 Test #175: miscmatrices_2 ...................   Passed    0.00 sec
+        Start 176: miscmatrices_3
+176/794 Test #176: miscmatrices_3 ...................   Passed    0.00 sec
+        Start 177: miscmatrices_4
+177/794 Test #177: miscmatrices_4 ...................   Passed    0.00 sec
+        Start 178: miscmatrices_5
+178/794 Test #178: miscmatrices_5 ...................   Passed    0.00 sec
+        Start 179: commainitializer
+179/794 Test #179: commainitializer .................   Passed    0.00 sec
+        Start 180: smallvectors
+180/794 Test #180: smallvectors .....................   Passed    0.00 sec
+        Start 181: mapped_matrix_1
+181/794 Test #181: mapped_matrix_1 ..................   Passed    0.00 sec
+        Start 182: mapped_matrix_2
+182/794 Test #182: mapped_matrix_2 ..................   Passed    0.00 sec
+        Start 183: mapped_matrix_3
+183/794 Test #183: mapped_matrix_3 ..................   Passed    0.00 sec
+        Start 184: mapped_matrix_4
+184/794 Test #184: mapped_matrix_4 ..................   Passed    0.00 sec
+        Start 185: mapped_matrix_5
+185/794 Test #185: mapped_matrix_5 ..................   Passed    0.00 sec
+        Start 186: mapped_matrix_11
+186/794 Test #186: mapped_matrix_11 .................   Passed    0.00 sec
+        Start 187: mapped_matrix_6
+187/794 Test #187: mapped_matrix_6 ..................   Passed    0.00 sec
+        Start 188: mapped_matrix_7
+188/794 Test #188: mapped_matrix_7 ..................   Passed    0.00 sec
+        Start 189: mapped_matrix_8
+189/794 Test #189: mapped_matrix_8 ..................   Passed    0.00 sec
+        Start 190: mapped_matrix_9
+190/794 Test #190: mapped_matrix_9 ..................   Passed    0.00 sec
+        Start 191: mapped_matrix_10
+191/794 Test #191: mapped_matrix_10 .................   Passed    0.00 sec
+        Start 192: mapstride_1
+192/794 Test #192: mapstride_1 ......................   Passed    0.00 sec
+        Start 193: mapstride_2
+193/794 Test #193: mapstride_2 ......................   Passed    0.00 sec
+        Start 194: mapstride_3
+194/794 Test #194: mapstride_3 ......................   Passed    0.00 sec
+        Start 195: mapstride_4
+195/794 Test #195: mapstride_4 ......................   Passed    0.01 sec
+        Start 196: mapstride_5
+196/794 Test #196: mapstride_5 ......................   Passed    0.00 sec
+        Start 197: mapstride_6
+197/794 Test #197: mapstride_6 ......................   Passed    0.00 sec
+        Start 198: mapstaticmethods_1
+198/794 Test #198: mapstaticmethods_1 ...............   Passed    0.00 sec
+        Start 199: mapstaticmethods_2
+199/794 Test #199: mapstaticmethods_2 ...............   Passed    0.00 sec
+        Start 200: mapstaticmethods_3
+200/794 Test #200: mapstaticmethods_3 ...............   Passed    0.00 sec
+        Start 201: mapstaticmethods_4
+201/794 Test #201: mapstaticmethods_4 ...............   Passed    0.00 sec
+        Start 202: mapstaticmethods_5
+202/794 Test #202: mapstaticmethods_5 ...............   Passed    0.00 sec
+        Start 203: mapstaticmethods_6
+203/794 Test #203: mapstaticmethods_6 ...............   Passed    0.00 sec
+        Start 204: mapstaticmethods_7
+204/794 Test #204: mapstaticmethods_7 ...............   Passed    0.00 sec
+        Start 205: mapstaticmethods_8
+205/794 Test #205: mapstaticmethods_8 ...............   Passed    0.00 sec
+        Start 206: array_1
+206/794 Test #206: array_1 ..........................   Passed    0.00 sec
+        Start 207: array_2
+207/794 Test #207: array_2 ..........................   Passed    0.00 sec
+        Start 208: array_3
+208/794 Test #208: array_3 ..........................   Passed    0.00 sec
+        Start 209: array_4
+209/794 Test #209: array_4 ..........................   Passed    1.49 sec
+        Start 210: array_5
+210/794 Test #210: array_5 ..........................   Passed    0.33 sec
+        Start 211: array_6
+211/794 Test #211: array_6 ..........................   Passed    0.08 sec
+        Start 212: array_for_matrix_1
+212/794 Test #212: array_for_matrix_1 ...............   Passed    0.00 sec
+        Start 213: array_for_matrix_2
+213/794 Test #213: array_for_matrix_2 ...............   Passed    0.00 sec
+        Start 214: array_for_matrix_3
+214/794 Test #214: array_for_matrix_3 ...............   Passed    0.00 sec
+        Start 215: array_for_matrix_4
+215/794 Test #215: array_for_matrix_4 ...............   Passed    0.04 sec
+        Start 216: array_for_matrix_5
+216/794 Test #216: array_for_matrix_5 ...............   Passed    0.05 sec
+        Start 217: array_for_matrix_6
+217/794 Test #217: array_for_matrix_6 ...............   Passed    0.04 sec
+        Start 218: array_for_matrix_7
+218/794 Test #218: array_for_matrix_7 ...............   Passed    0.00 sec
+        Start 219: array_for_matrix_8
+219/794 Test #219: array_for_matrix_8 ...............   Passed    0.00 sec
+        Start 220: array_replicate_1
+220/794 Test #220: array_replicate_1 ................   Passed    0.00 sec
+        Start 221: array_replicate_2
+221/794 Test #221: array_replicate_2 ................   Passed    0.00 sec
+        Start 222: array_replicate_3
+222/794 Test #222: array_replicate_3 ................   Passed    0.00 sec
+        Start 223: array_replicate_4
+223/794 Test #223: array_replicate_4 ................   Passed    0.00 sec
+        Start 224: array_replicate_5
+224/794 Test #224: array_replicate_5 ................   Passed    0.00 sec
+        Start 225: array_replicate_6
+225/794 Test #225: array_replicate_6 ................   Passed    0.00 sec
+        Start 226: array_reverse_1
+226/794 Test #226: array_reverse_1 ..................   Passed    0.00 sec
+        Start 227: array_reverse_2
+227/794 Test #227: array_reverse_2 ..................   Passed    0.00 sec
+        Start 228: array_reverse_3
+228/794 Test #228: array_reverse_3 ..................   Passed    0.00 sec
+        Start 229: array_reverse_4
+229/794 Test #229: array_reverse_4 ..................   Passed    0.00 sec
+        Start 230: array_reverse_5
+230/794 Test #230: array_reverse_5 ..................   Passed    0.03 sec
+        Start 231: array_reverse_6
+231/794 Test #231: array_reverse_6 ..................   Passed    0.04 sec
+        Start 232: array_reverse_7
+232/794 Test #232: array_reverse_7 ..................   Passed    0.04 sec
+        Start 233: array_reverse_8
+233/794 Test #233: array_reverse_8 ..................   Passed    0.02 sec
+        Start 234: array_reverse_9
+234/794 Test #234: array_reverse_9 ..................   Passed    0.03 sec
+        Start 235: ref_1
+235/794 Test #235: ref_1 ............................   Passed    0.00 sec
+        Start 236: ref_2
+236/794 Test #236: ref_2 ............................   Passed    0.00 sec
+        Start 237: ref_3
+237/794 Test #237: ref_3 ............................   Passed    0.00 sec
+        Start 238: ref_4
+238/794 Test #238: ref_4 ............................   Passed    0.00 sec
+        Start 239: ref_5
+239/794 Test #239: ref_5 ............................   Passed    0.00 sec
+        Start 240: ref_6
+240/794 Test #240: ref_6 ............................   Passed    0.00 sec
+        Start 241: ref_7
+241/794 Test #241: ref_7 ............................   Passed    0.00 sec
+        Start 242: is_same_dense
+242/794 Test #242: is_same_dense ....................   Passed    0.00 sec
+        Start 243: triangular_1
+243/794 Test #243: triangular_1 .....................   Passed    0.00 sec
+        Start 244: triangular_2
+244/794 Test #244: triangular_2 .....................   Passed    0.00 sec
+        Start 245: triangular_3
+245/794 Test #245: triangular_3 .....................   Passed    0.00 sec
+        Start 246: triangular_4
+246/794 Test #246: triangular_4 .....................   Passed    0.00 sec
+        Start 247: triangular_5
+247/794 Test #247: triangular_5 .....................   Passed    0.00 sec
+        Start 248: triangular_6
+248/794 Test #248: triangular_6 .....................   Passed    0.00 sec
+        Start 249: triangular_7
+249/794 Test #249: triangular_7 .....................   Passed    0.00 sec
+        Start 250: triangular_8
+250/794 Test #250: triangular_8 .....................   Passed    0.00 sec
+        Start 251: triangular_9
+251/794 Test #251: triangular_9 .....................   Passed    0.00 sec
+        Start 252: selfadjoint_1
+252/794 Test #252: selfadjoint_1 ....................   Passed    0.00 sec
+        Start 253: selfadjoint_2
+253/794 Test #253: selfadjoint_2 ....................   Passed    0.00 sec
+        Start 254: selfadjoint_3
+254/794 Test #254: selfadjoint_3 ....................   Passed    0.00 sec
+        Start 255: selfadjoint_4
+255/794 Test #255: selfadjoint_4 ....................   Passed    0.10 sec
+        Start 256: selfadjoint_5
+256/794 Test #256: selfadjoint_5 ....................   Passed    0.03 sec
+        Start 257: product_selfadjoint_1
+257/794 Test #257: product_selfadjoint_1 ............   Passed    0.00 sec
+        Start 258: product_selfadjoint_2
+258/794 Test #258: product_selfadjoint_2 ............   Passed    0.00 sec
+        Start 259: product_selfadjoint_3
+259/794 Test #259: product_selfadjoint_3 ............   Passed    0.00 sec
+        Start 260: product_selfadjoint_4
+260/794 Test #260: product_selfadjoint_4 ............   Passed    0.01 sec
+        Start 261: product_selfadjoint_5
+261/794 Test #261: product_selfadjoint_5 ............   Passed    0.02 sec
+        Start 262: product_selfadjoint_6
+262/794 Test #262: product_selfadjoint_6 ............   Passed    0.02 sec
+        Start 263: product_selfadjoint_7
+263/794 Test #263: product_selfadjoint_7 ............   Passed    0.01 sec
+        Start 264: product_symm_1
+264/794 Test #264: product_symm_1 ...................   Passed    0.25 sec
+        Start 265: product_symm_2
+265/794 Test #265: product_symm_2 ...................   Passed    0.43 sec
+        Start 266: product_symm_3
+266/794 Test #266: product_symm_3 ...................   Passed    0.15 sec
+        Start 267: product_symm_4
+267/794 Test #267: product_symm_4 ...................   Passed    0.43 sec
+        Start 268: product_symm_5
+268/794 Test #268: product_symm_5 ...................   Passed    0.02 sec
+        Start 269: product_symm_6
+269/794 Test #269: product_symm_6 ...................   Passed    0.03 sec
+        Start 270: product_symm_7
+270/794 Test #270: product_symm_7 ...................   Passed    0.05 sec
+        Start 271: product_symm_8
+271/794 Test #271: product_symm_8 ...................   Passed    0.06 sec
+        Start 272: product_syrk_1
+272/794 Test #272: product_syrk_1 ...................   Passed    0.21 sec
+        Start 273: product_syrk_2
+273/794 Test #273: product_syrk_2 ...................   Passed    0.34 sec
+        Start 274: product_syrk_3
+274/794 Test #274: product_syrk_3 ...................   Passed    0.18 sec
+        Start 275: product_syrk_4
+275/794 Test #275: product_syrk_4 ...................   Passed    0.31 sec
+        Start 276: product_trmv_1
+276/794 Test #276: product_trmv_1 ...................   Passed    0.00 sec
+        Start 277: product_trmv_2
+277/794 Test #277: product_trmv_2 ...................   Passed    0.00 sec
+        Start 278: product_trmv_3
+278/794 Test #278: product_trmv_3 ...................   Passed    0.00 sec
+        Start 279: product_trmv_4
+279/794 Test #279: product_trmv_4 ...................   Passed    0.01 sec
+        Start 280: product_trmv_5
+280/794 Test #280: product_trmv_5 ...................   Passed    0.02 sec
+        Start 281: product_trmv_6
+281/794 Test #281: product_trmv_6 ...................   Passed    0.03 sec
+        Start 282: product_trmm_1
+282/794 Test #282: product_trmm_1 ...................   Passed    0.00 sec
+        Start 283: product_trmm_11
+283/794 Test #283: product_trmm_11 ..................   Passed    1.75 sec
+        Start 284: product_trmm_111
+284/794 Test #284: product_trmm_111 .................   Passed    0.03 sec
+        Start 285: product_trmm_21
+285/794 Test #285: product_trmm_21 ..................   Passed    1.42 sec
+        Start 286: product_trmm_121
+286/794 Test #286: product_trmm_121 .................   Passed    0.04 sec
+        Start 287: product_trmm_31
+287/794 Test #287: product_trmm_31 ..................   Passed    1.81 sec
+        Start 288: product_trmm_131
+288/794 Test #288: product_trmm_131 .................   Passed    0.04 sec
+        Start 289: product_trmm_12
+289/794 Test #289: product_trmm_12 ..................   Passed    3.71 sec
+        Start 290: product_trmm_112
+290/794 Test #290: product_trmm_112 .................   Passed    0.06 sec
+        Start 291: product_trmm_22
+291/794 Test #291: product_trmm_22 ..................   Passed    2.53 sec
+        Start 292: product_trmm_122
+292/794 Test #292: product_trmm_122 .................   Passed    0.05 sec
+        Start 293: product_trmm_32
+293/794 Test #293: product_trmm_32 ..................   Passed    3.13 sec
+        Start 294: product_trmm_132
+294/794 Test #294: product_trmm_132 .................   Passed    0.04 sec
+        Start 295: product_trmm_13
+295/794 Test #295: product_trmm_13 ..................   Passed    1.44 sec
+        Start 296: product_trmm_113
+296/794 Test #296: product_trmm_113 .................   Passed    0.03 sec
+        Start 297: product_trmm_23
+297/794 Test #297: product_trmm_23 ..................   Passed    1.18 sec
+        Start 298: product_trmm_123
+298/794 Test #298: product_trmm_123 .................   Passed    0.03 sec
+        Start 299: product_trmm_33
+299/794 Test #299: product_trmm_33 ..................   Passed    1.55 sec
+        Start 300: product_trmm_133
+300/794 Test #300: product_trmm_133 .................   Passed    0.02 sec
+        Start 301: product_trmm_14
+301/794 Test #301: product_trmm_14 ..................   Passed    2.68 sec
+        Start 302: product_trmm_114
+302/794 Test #302: product_trmm_114 .................   Passed    0.04 sec
+        Start 303: product_trmm_24
+303/794 Test #303: product_trmm_24 ..................   Passed    2.25 sec
+        Start 304: product_trmm_124
+304/794 Test #304: product_trmm_124 .................   Passed    0.03 sec
+        Start 305: product_trmm_34
+305/794 Test #305: product_trmm_34 ..................   Passed    3.35 sec
+        Start 306: product_trmm_134
+306/794 Test #306: product_trmm_134 .................   Passed    0.04 sec
+        Start 307: product_trsolve_1
+307/794 Test #307: product_trsolve_1 ................   Passed    0.36 sec
+        Start 308: product_trsolve_2
+308/794 Test #308: product_trsolve_2 ................   Passed    0.64 sec
+        Start 309: product_trsolve_3
+309/794 Test #309: product_trsolve_3 ................   Passed    0.36 sec
+        Start 310: product_trsolve_4
+310/794 Test #310: product_trsolve_4 ................   Passed    0.56 sec
+        Start 311: product_trsolve_5
+311/794 Test #311: product_trsolve_5 ................   Passed    0.05 sec
+        Start 312: product_trsolve_6
+312/794 Test #312: product_trsolve_6 ................   Passed    0.06 sec
+        Start 313: product_trsolve_7
+313/794 Test #313: product_trsolve_7 ................   Passed    0.06 sec
+        Start 314: product_trsolve_8
+314/794 Test #314: product_trsolve_8 ................   Passed    0.09 sec
+        Start 315: product_trsolve_9
+315/794 Test #315: product_trsolve_9 ................   Passed    0.00 sec
+        Start 316: product_trsolve_10
+316/794 Test #316: product_trsolve_10 ...............   Passed    0.00 sec
+        Start 317: product_trsolve_11
+317/794 Test #317: product_trsolve_11 ...............   Passed    0.00 sec
+        Start 318: product_trsolve_12
+318/794 Test #318: product_trsolve_12 ...............   Passed    0.00 sec
+        Start 319: product_trsolve_13
+319/794 Test #319: product_trsolve_13 ...............   Passed    0.00 sec
+        Start 320: product_trsolve_14
+320/794 Test #320: product_trsolve_14 ...............   Passed    0.00 sec
+        Start 321: product_mmtr_1
+321/794 Test #321: product_mmtr_1 ...................   Passed    0.30 sec
+        Start 322: product_mmtr_2
+322/794 Test #322: product_mmtr_2 ...................   Passed    0.59 sec
+        Start 323: product_mmtr_3
+323/794 Test #323: product_mmtr_3 ...................   Passed    0.47 sec
+        Start 324: product_mmtr_4
+324/794 Test #324: product_mmtr_4 ...................   Passed    0.92 sec
+        Start 325: product_notemporary_1
+325/794 Test #325: product_notemporary_1 ............   Passed    0.39 sec
+        Start 326: product_notemporary_2
+326/794 Test #326: product_notemporary_2 ............   Passed    0.77 sec
+        Start 327: product_notemporary_3
+327/794 Test #327: product_notemporary_3 ............   Passed    0.26 sec
+        Start 328: product_notemporary_4
+328/794 Test #328: product_notemporary_4 ............   Passed    0.49 sec
+        Start 329: stable_norm_1
+329/794 Test #329: stable_norm_1 ....................   Passed    0.00 sec
+        Start 330: stable_norm_2
+330/794 Test #330: stable_norm_2 ....................   Passed    0.00 sec
+        Start 331: stable_norm_3
+331/794 Test #331: stable_norm_3 ....................   Passed    0.01 sec
+        Start 332: stable_norm_4
+332/794 Test #332: stable_norm_4 ....................   Passed    0.01 sec
+        Start 333: stable_norm_5
+333/794 Test #333: stable_norm_5 ....................   Passed    0.04 sec
+        Start 334: permutationmatrices_1
+334/794 Test #334: permutationmatrices_1 ............   Passed    0.00 sec
+        Start 335: permutationmatrices_2
+335/794 Test #335: permutationmatrices_2 ............   Passed    0.00 sec
+        Start 336: permutationmatrices_3
+336/794 Test #336: permutationmatrices_3 ............   Passed    0.00 sec
+        Start 337: permutationmatrices_4
+337/794 Test #337: permutationmatrices_4 ............   Passed    0.00 sec
+        Start 338: permutationmatrices_5
+338/794 Test #338: permutationmatrices_5 ............   Passed    0.01 sec
+        Start 339: permutationmatrices_6
+339/794 Test #339: permutationmatrices_6 ............   Passed    0.01 sec
+        Start 340: permutationmatrices_7
+340/794 Test #340: permutationmatrices_7 ............   Passed    0.00 sec
+        Start 341: bandmatrix
+341/794 Test #341: bandmatrix .......................   Passed    0.00 sec
+        Start 342: cholesky_1
+342/794 Test #342: cholesky_1 .......................   Passed    0.00 sec
+        Start 343: cholesky_3
+343/794 Test #343: cholesky_3 .......................   Passed    0.00 sec
+        Start 344: cholesky_4
+344/794 Test #344: cholesky_4 .......................   Passed    0.00 sec
+        Start 345: cholesky_5
+345/794 Test #345: cholesky_5 .......................   Passed    0.00 sec
+        Start 346: cholesky_2
+346/794 Test #346: cholesky_2 .......................   Passed    2.13 sec
+        Start 347: cholesky_6
+347/794 Test #347: cholesky_6 .......................   Passed    0.74 sec
+        Start 348: cholesky_7
+348/794 Test #348: cholesky_7 .......................   Passed    0.00 sec
+        Start 349: cholesky_8
+349/794 Test #349: cholesky_8 .......................   Passed    0.00 sec
+        Start 350: cholesky_9
+350/794 Test #350: cholesky_9 .......................   Passed    0.00 sec
+        Start 351: lu_1
+351/794 Test #351: lu_1 .............................   Passed    0.00 sec
+        Start 352: lu_2
+352/794 Test #352: lu_2 .............................   Passed    0.00 sec
+        Start 353: lu_3
+353/794 Test #353: lu_3 .............................   Passed    0.60 sec
+        Start 354: lu_4
+354/794 Test #354: lu_4 .............................   Passed    1.21 sec
+        Start 355: lu_5
+355/794 Test #355: lu_5 .............................   Passed    3.18 sec
+        Start 356: lu_6
+356/794 Test #356: lu_6 .............................   Passed    3.94 sec
+        Start 357: lu_7
+357/794 Test #357: lu_7 .............................   Passed    0.06 sec
+        Start 358: lu_9
+358/794 Test #358: lu_9 .............................   Passed    0.00 sec
+        Start 359: determinant_1
+359/794 Test #359: determinant_1 ....................   Passed    0.00 sec
+        Start 360: determinant_2
+360/794 Test #360: determinant_2 ....................   Passed    0.00 sec
+        Start 361: determinant_3
+361/794 Test #361: determinant_3 ....................   Passed    0.00 sec
+        Start 362: determinant_4
+362/794 Test #362: determinant_4 ....................   Passed    0.00 sec
+        Start 363: determinant_5
+363/794 Test #363: determinant_5 ....................   Passed    0.01 sec
+        Start 364: determinant_6
+364/794 Test #364: determinant_6 ....................   Passed    0.02 sec
+        Start 365: inverse_5
+365/794 Test #365: inverse_5 ........................   Passed    0.30 sec
+        Start 366: inverse_6
+366/794 Test #366: inverse_6 ........................   Passed    0.26 sec
+        Start 367: inverse_1
+367/794 Test #367: inverse_1 ........................   Passed    0.00 sec
+        Start 368: inverse_2
+368/794 Test #368: inverse_2 ........................   Passed    0.00 sec
+        Start 369: inverse_3
+369/794 Test #369: inverse_3 ........................   Passed    0.00 sec
+        Start 370: inverse_4
+370/794 Test #370: inverse_4 ........................   Passed    0.00 sec
+        Start 371: inverse_7
+371/794 Test #371: inverse_7 ........................   Passed    0.00 sec
+        Start 372: inverse_8
+372/794 Test #372: inverse_8 ........................   Passed    0.00 sec
+        Start 373: qr_1
+373/794 Test #373: qr_1 .............................   Passed    0.07 sec
+        Start 374: qr_2
+374/794 Test #374: qr_2 .............................   Passed    0.05 sec
+        Start 375: qr_3
+375/794 Test #375: qr_3 .............................   Passed    0.00 sec
+        Start 376: qr_4
+376/794 Test #376: qr_4 .............................   Passed    0.00 sec
+        Start 377: qr_5
+377/794 Test #377: qr_5 .............................   Passed    0.00 sec
+        Start 378: qr_11
+378/794 Test #378: qr_11 ............................   Passed    0.00 sec
+        Start 379: qr_6
+379/794 Test #379: qr_6 .............................   Passed    0.01 sec
+        Start 380: qr_7
+380/794 Test #380: qr_7 .............................   Passed    0.02 sec
+        Start 381: qr_8
+381/794 Test #381: qr_8 .............................   Passed    0.01 sec
+        Start 382: qr_9
+382/794 Test #382: qr_9 .............................   Passed    0.00 sec
+        Start 383: qr_10
+383/794 Test #383: qr_10 ............................   Passed    0.00 sec
+        Start 384: qr_12
+384/794 Test #384: qr_12 ............................   Passed    0.00 sec
+        Start 385: qr_colpivoting_1
+385/794 Test #385: qr_colpivoting_1 .................   Passed    0.43 sec
+        Start 386: qr_colpivoting_2
+386/794 Test #386: qr_colpivoting_2 .................   Passed    0.68 sec
+        Start 387: qr_colpivoting_3
+387/794 Test #387: qr_colpivoting_3 .................   Passed    4.31 sec
+        Start 388: qr_colpivoting_4
+388/794 Test #388: qr_colpivoting_4 .................   Passed    0.00 sec
+        Start 389: qr_colpivoting_5
+389/794 Test #389: qr_colpivoting_5 .................   Passed    0.00 sec
+        Start 390: qr_colpivoting_6
+390/794 Test #390: qr_colpivoting_6 .................   Passed    0.02 sec
+        Start 391: qr_colpivoting_7
+391/794 Test #391: qr_colpivoting_7 .................   Passed    0.00 sec
+        Start 392: qr_colpivoting_8
+392/794 Test #392: qr_colpivoting_8 .................   Passed    0.00 sec
+        Start 393: qr_colpivoting_9
+393/794 Test #393: qr_colpivoting_9 .................   Passed    0.00 sec
+        Start 394: qr_fullpivoting_1
+394/794 Test #394: qr_fullpivoting_1 ................   Passed    0.04 sec
+        Start 395: qr_fullpivoting_2
+395/794 Test #395: qr_fullpivoting_2 ................   Passed    0.06 sec
+        Start 396: qr_fullpivoting_3
+396/794 Test #396: qr_fullpivoting_3 ................   Passed    0.27 sec
+        Start 397: qr_fullpivoting_4
+397/794 Test #397: qr_fullpivoting_4 ................   Passed    0.03 sec
+        Start 398: qr_fullpivoting_5
+398/794 Test #398: qr_fullpivoting_5 ................   Passed    0.00 sec
+        Start 399: qr_fullpivoting_6
+399/794 Test #399: qr_fullpivoting_6 ................   Passed    0.00 sec
+        Start 400: qr_fullpivoting_7
+400/794 Test #400: qr_fullpivoting_7 ................   Passed    0.00 sec
+        Start 401: upperbidiagonalization_1
+401/794 Test #401: upperbidiagonalization_1 .........   Passed    0.00 sec
+        Start 402: upperbidiagonalization_2
+402/794 Test #402: upperbidiagonalization_2 .........   Passed    0.00 sec
+        Start 403: upperbidiagonalization_3
+403/794 Test #403: upperbidiagonalization_3 .........   Passed    0.01 sec
+        Start 404: upperbidiagonalization_4
+404/794 Test #404: upperbidiagonalization_4 .........   Passed    0.00 sec
+        Start 405: upperbidiagonalization_5
+405/794 Test #405: upperbidiagonalization_5 .........   Passed    0.00 sec
+        Start 406: upperbidiagonalization_6
+406/794 Test #406: upperbidiagonalization_6 .........   Passed    0.00 sec
+        Start 407: upperbidiagonalization_7
+407/794 Test #407: upperbidiagonalization_7 .........   Passed    0.00 sec
+        Start 408: hessenberg_1
+408/794 Test #408: hessenberg_1 .....................   Passed    0.00 sec
+        Start 409: hessenberg_2
+409/794 Test #409: hessenberg_2 .....................   Passed    0.00 sec
+        Start 410: hessenberg_3
+410/794 Test #410: hessenberg_3 .....................   Passed    0.00 sec
+        Start 411: hessenberg_4
+411/794 Test #411: hessenberg_4 .....................   Passed    0.02 sec
+        Start 412: hessenberg_5
+412/794 Test #412: hessenberg_5 .....................   Passed    0.07 sec
+        Start 413: hessenberg_6
+413/794 Test #413: hessenberg_6 .....................   Passed    0.00 sec
+        Start 414: schur_real_1
+414/794 Test #414: schur_real_1 .....................   Passed    0.00 sec
+        Start 415: schur_real_2
+415/794 Test #415: schur_real_2 .....................   Passed    0.01 sec
+        Start 416: schur_real_3
+416/794 Test #416: schur_real_3 .....................   Passed    0.00 sec
+        Start 417: schur_real_4
+417/794 Test #417: schur_real_4 .....................   Passed    0.00 sec
+        Start 418: schur_real_5
+418/794 Test #418: schur_real_5 .....................   Passed    0.00 sec
+        Start 419: schur_complex_1
+419/794 Test #419: schur_complex_1 ..................   Passed    0.00 sec
+        Start 420: schur_complex_2
+420/794 Test #420: schur_complex_2 ..................   Passed    0.03 sec
+        Start 421: schur_complex_3
+421/794 Test #421: schur_complex_3 ..................   Passed    0.00 sec
+        Start 422: schur_complex_4
+422/794 Test #422: schur_complex_4 ..................   Passed    0.00 sec
+        Start 423: schur_complex_5
+423/794 Test #423: schur_complex_5 ..................   Passed    0.00 sec
+        Start 424: eigensolver_selfadjoint_1
+424/794 Test #424: eigensolver_selfadjoint_1 ........   Passed    0.00 sec
+        Start 425: eigensolver_selfadjoint_12
+425/794 Test #425: eigensolver_selfadjoint_12 .......   Passed    0.00 sec
+        Start 426: eigensolver_selfadjoint_13
+426/794 Test #426: eigensolver_selfadjoint_13 .......   Passed    0.01 sec
+        Start 427: eigensolver_selfadjoint_2
+427/794 Test #427: eigensolver_selfadjoint_2 ........   Passed    0.00 sec
+        Start 428: eigensolver_selfadjoint_3
+428/794 Test #428: eigensolver_selfadjoint_3 ........   Passed    0.11 sec
+        Start 429: eigensolver_selfadjoint_4
+429/794 Test #429: eigensolver_selfadjoint_4 ........   Passed    0.09 sec
+        Start 430: eigensolver_selfadjoint_5
+430/794 Test #430: eigensolver_selfadjoint_5 ........   Passed    0.28 sec
+        Start 431: eigensolver_selfadjoint_9
+431/794 Test #431: eigensolver_selfadjoint_9 ........   Passed    0.24 sec
+        Start 432: eigensolver_selfadjoint_6
+432/794 Test #432: eigensolver_selfadjoint_6 ........   Passed    0.00 sec
+        Start 433: eigensolver_selfadjoint_7
+433/794 Test #433: eigensolver_selfadjoint_7 ........   Passed    0.00 sec
+        Start 434: eigensolver_selfadjoint_8
+434/794 Test #434: eigensolver_selfadjoint_8 ........   Passed    0.00 sec
+        Start 435: eigensolver_generic_1
+435/794 Test #435: eigensolver_generic_1 ............   Passed    0.02 sec
+        Start 436: eigensolver_generic_2
+436/794 Test #436: eigensolver_generic_2 ............   Passed    0.33 sec
+        Start 437: eigensolver_generic_3
+437/794 Test #437: eigensolver_generic_3 ............   Passed    0.00 sec
+        Start 438: eigensolver_generic_4
+438/794 Test #438: eigensolver_generic_4 ............   Passed    0.00 sec
+        Start 439: eigensolver_generic_5
+439/794 Test #439: eigensolver_generic_5 ............   Passed    0.00 sec
+        Start 440: eigensolver_complex_1
+440/794 Test #440: eigensolver_complex_1 ............   Passed    0.02 sec
+        Start 441: eigensolver_complex_2
+441/794 Test #441: eigensolver_complex_2 ............   Passed    0.48 sec
+        Start 442: eigensolver_complex_3
+442/794 Test #442: eigensolver_complex_3 ............   Passed    0.00 sec
+        Start 443: eigensolver_complex_4
+443/794 Test #443: eigensolver_complex_4 ............   Passed    0.01 sec
+        Start 444: eigensolver_complex_5
+444/794 Test #444: eigensolver_complex_5 ............   Passed    0.00 sec
+        Start 445: real_qz_1
+445/794 Test #445: real_qz_1 ........................   Passed    0.00 sec
+        Start 446: real_qz_2
+446/794 Test #446: real_qz_2 ........................   Passed    0.13 sec
+        Start 447: real_qz_3
+447/794 Test #447: real_qz_3 ........................   Passed    0.00 sec
+        Start 448: real_qz_4
+448/794 Test #448: real_qz_4 ........................   Passed    0.00 sec
+        Start 449: eigensolver_generalized_real_1
+449/794 Test #449: eigensolver_generalized_real_1 ...   Passed    0.00 sec
+        Start 450: eigensolver_generalized_real_2
+450/794 Test #450: eigensolver_generalized_real_2 ...   Passed    1.00 sec
+        Start 451: eigensolver_generalized_real_3
+451/794 Test #451: eigensolver_generalized_real_3 ...   Passed    0.00 sec
+        Start 452: eigensolver_generalized_real_4
+452/794 Test #452: eigensolver_generalized_real_4 ...   Passed    0.00 sec
+        Start 453: jacobi_1
+453/794 Test #453: jacobi_1 .........................   Passed    0.00 sec
+        Start 454: jacobi_2
+454/794 Test #454: jacobi_2 .........................   Passed    0.00 sec
+        Start 455: jacobi_3
+455/794 Test #455: jacobi_3 .........................   Passed    0.00 sec
+        Start 456: jacobi_4
+456/794 Test #456: jacobi_4 .........................   Passed    0.00 sec
+        Start 457: jacobi_5
+457/794 Test #457: jacobi_5 .........................   Passed    0.01 sec
+        Start 458: jacobi_6
+458/794 Test #458: jacobi_6 .........................   Passed    0.00 sec
+        Start 459: jacobisvd_3
+459/794 Test #459: jacobisvd_3 ......................   Passed    0.01 sec
+        Start 460: jacobisvd_4
+460/794 Test #460: jacobisvd_4 ......................   Passed    0.01 sec
+        Start 461: jacobisvd_7
+461/794 Test #461: jacobisvd_7 ......................   Passed    9.37 sec
+        Start 462: jacobisvd_8
+462/794 Test #462: jacobisvd_8 ......................   Passed   34.35 sec
+        Start 463: jacobisvd_11
+463/794 Test #463: jacobisvd_11 .....................   Passed    0.02 sec
+        Start 464: jacobisvd_12
+464/794 Test #464: jacobisvd_12 .....................   Passed    0.01 sec
+        Start 465: jacobisvd_5
+465/794 Test #465: jacobisvd_5 ......................   Passed    0.01 sec
+        Start 466: jacobisvd_6
+466/794 Test #466: jacobisvd_6 ......................   Passed    0.01 sec
+        Start 467: jacobisvd_10
+467/794 Test #467: jacobisvd_10 .....................   Passed    0.08 sec
+        Start 468: jacobisvd_13
+468/794 Test #468: jacobisvd_13 .....................   Passed    0.01 sec
+        Start 469: jacobisvd_1
+469/794 Test #469: jacobisvd_1 ......................   Passed    0.00 sec
+        Start 470: jacobisvd_9
+470/794 Test #470: jacobisvd_9 ......................   Passed    0.00 sec
+        Start 471: jacobisvd_2
+471/794 Test #471: jacobisvd_2 ......................   Passed    0.01 sec
+        Start 472: bdcsvd_3
+472/794 Test #472: bdcsvd_3 .........................   Passed    0.00 sec
+        Start 473: bdcsvd_4
+473/794 Test #473: bdcsvd_4 .........................   Passed    0.00 sec
+        Start 474: bdcsvd_7
+474/794 Test #474: bdcsvd_7 .........................   Passed   34.61 sec
+        Start 475: bdcsvd_8
+475/794 Test #475: bdcsvd_8 .........................   Passed   16.75 sec
+        Start 476: bdcsvd_101
+476/794 Test #476: bdcsvd_101 .......................   Passed    0.01 sec
+        Start 477: bdcsvd_102
+477/794 Test #477: bdcsvd_102 .......................   Passed    0.01 sec
+        Start 478: bdcsvd_5
+478/794 Test #478: bdcsvd_5 .........................   Passed    0.01 sec
+        Start 479: bdcsvd_6
+479/794 Test #479: bdcsvd_6 .........................   Passed    0.05 sec
+        Start 480: bdcsvd_10
+480/794 Test #480: bdcsvd_10 ........................   Passed    1.94 sec
+        Start 481: bdcsvd_1
+481/794 Test #481: bdcsvd_1 .........................   Passed    0.00 sec
+        Start 482: bdcsvd_9
+482/794 Test #482: bdcsvd_9 .........................   Passed    0.00 sec
+        Start 483: bdcsvd_2
+483/794 Test #483: bdcsvd_2 .........................   Passed    0.02 sec
+        Start 484: householder_1
+484/794 Test #484: householder_1 ....................   Passed    0.00 sec
+        Start 485: householder_2
+485/794 Test #485: householder_2 ....................   Passed    0.00 sec
+        Start 486: householder_3
+486/794 Test #486: householder_3 ....................   Passed    0.00 sec
+        Start 487: householder_4
+487/794 Test #487: householder_4 ....................   Passed    0.00 sec
+        Start 488: householder_5
+488/794 Test #488: householder_5 ....................   Passed    0.53 sec
+        Start 489: householder_6
+489/794 Test #489: householder_6 ....................   Passed    1.36 sec
+        Start 490: householder_7
+490/794 Test #490: householder_7 ....................   Passed    0.38 sec
+        Start 491: householder_8
+491/794 Test #491: householder_8 ....................   Passed    0.00 sec
+        Start 492: geo_orthomethods_1
+492/794 Test #492: geo_orthomethods_1 ...............   Passed    0.00 sec
+        Start 493: geo_orthomethods_2
+493/794 Test #493: geo_orthomethods_2 ...............   Passed    0.00 sec
+        Start 494: geo_orthomethods_4
+494/794 Test #494: geo_orthomethods_4 ...............   Passed    0.00 sec
+        Start 495: geo_orthomethods_3
+495/794 Test #495: geo_orthomethods_3 ...............   Passed    0.00 sec
+        Start 496: geo_orthomethods_5
+496/794 Test #496: geo_orthomethods_5 ...............   Passed    0.00 sec
+        Start 497: geo_orthomethods_6
+497/794 Test #497: geo_orthomethods_6 ...............   Passed    0.00 sec
+        Start 498: geo_quaternion_1
+498/794 Test #498: geo_quaternion_1 .................   Passed    0.00 sec
+        Start 499: geo_quaternion_2
+499/794 Test #499: geo_quaternion_2 .................   Passed    0.00 sec
+        Start 500: geo_quaternion_3
+500/794 Test #500: geo_quaternion_3 .................   Passed    0.00 sec
+        Start 501: geo_quaternion_4
+501/794 Test #501: geo_quaternion_4 .................   Passed    0.00 sec
+        Start 502: geo_quaternion_5
+502/794 Test #502: geo_quaternion_5 .................   Passed    0.00 sec
+        Start 503: geo_quaternion_6
+503/794 Test #503: geo_quaternion_6 .................   Passed    0.00 sec
+        Start 504: geo_eulerangles_1
+504/794 Test #504: geo_eulerangles_1 ................   Passed    0.00 sec
+        Start 505: geo_eulerangles_2
+505/794 Test #505: geo_eulerangles_2 ................   Passed    0.01 sec
+        Start 506: geo_parametrizedline_1
+506/794 Test #506: geo_parametrizedline_1 ...........   Passed    0.00 sec
+        Start 507: geo_parametrizedline_2
+507/794 Test #507: geo_parametrizedline_2 ...........   Passed    0.00 sec
+        Start 508: geo_parametrizedline_3
+508/794 Test #508: geo_parametrizedline_3 ...........   Passed    0.00 sec
+        Start 509: geo_parametrizedline_4
+509/794 Test #509: geo_parametrizedline_4 ...........   Passed    0.00 sec
+        Start 510: geo_alignedbox_1
+510/794 Test #510: geo_alignedbox_1 .................   Passed    0.00 sec
+        Start 511: geo_alignedbox_2
+511/794 Test #511: geo_alignedbox_2 .................   Passed    0.00 sec
+        Start 512: geo_alignedbox_3
+512/794 Test #512: geo_alignedbox_3 .................   Passed    0.00 sec
+        Start 513: geo_alignedbox_4
+513/794 Test #513: geo_alignedbox_4 .................   Passed    0.00 sec
+        Start 514: geo_alignedbox_5
+514/794 Test #514: geo_alignedbox_5 .................   Passed    0.00 sec
+        Start 515: geo_alignedbox_6
+515/794 Test #515: geo_alignedbox_6 .................   Passed    0.00 sec
+        Start 516: geo_alignedbox_7
+516/794 Test #516: geo_alignedbox_7 .................   Passed    0.00 sec
+        Start 517: geo_alignedbox_8
+517/794 Test #517: geo_alignedbox_8 .................   Passed    0.00 sec
+        Start 518: geo_alignedbox_9
+518/794 Test #518: geo_alignedbox_9 .................   Passed    0.00 sec
+        Start 519: geo_alignedbox_10
+519/794 Test #519: geo_alignedbox_10 ................   Passed    0.00 sec
+        Start 520: geo_alignedbox_11
+520/794 Test #520: geo_alignedbox_11 ................   Passed    0.00 sec
+        Start 521: geo_alignedbox_14
+521/794 Test #521: geo_alignedbox_14 ................   Passed    0.00 sec
+        Start 522: geo_alignedbox_12
+522/794 Test #522: geo_alignedbox_12 ................   Passed    0.00 sec
+        Start 523: geo_alignedbox_13
+523/794 Test #523: geo_alignedbox_13 ................   Passed    0.00 sec
+        Start 524: geo_hyperplane_1
+524/794 Test #524: geo_hyperplane_1 .................   Passed    0.00 sec
+        Start 525: geo_hyperplane_2
+525/794 Test #525: geo_hyperplane_2 .................   Passed    0.00 sec
+        Start 526: geo_hyperplane_3
+526/794 Test #526: geo_hyperplane_3 .................   Passed    0.00 sec
+        Start 527: geo_hyperplane_4
+527/794 Test #527: geo_hyperplane_4 .................   Passed    0.00 sec
+        Start 528: geo_hyperplane_5
+528/794 Test #528: geo_hyperplane_5 .................   Passed    0.00 sec
+        Start 529: geo_transformations_1
+529/794 Test #529: geo_transformations_1 ............   Passed    0.00 sec
+        Start 530: geo_transformations_2
+530/794 Test #530: geo_transformations_2 ............   Passed    0.01 sec
+        Start 531: geo_transformations_3
+531/794 Test #531: geo_transformations_3 ............   Passed    0.01 sec
+        Start 532: geo_transformations_4
+532/794 Test #532: geo_transformations_4 ............   Passed    0.01 sec
+        Start 533: geo_transformations_5
+533/794 Test #533: geo_transformations_5 ............   Passed    0.00 sec
+        Start 534: geo_transformations_6
+534/794 Test #534: geo_transformations_6 ............   Passed    0.01 sec
+        Start 535: geo_transformations_7
+535/794 Test #535: geo_transformations_7 ............   Passed    0.00 sec
+        Start 536: geo_transformations_8
+536/794 Test #536: geo_transformations_8 ............   Passed    0.00 sec
+        Start 537: geo_homogeneous_1
+537/794 Test #537: geo_homogeneous_1 ................   Passed    0.00 sec
+        Start 538: geo_homogeneous_2
+538/794 Test #538: geo_homogeneous_2 ................   Passed    0.00 sec
+        Start 539: geo_homogeneous_3
+539/794 Test #539: geo_homogeneous_3 ................   Passed    0.00 sec
+        Start 540: stdvector_1
+540/794 Test #540: stdvector_1 ......................   Passed    0.00 sec
+        Start 541: stdvector_2
+541/794 Test #541: stdvector_2 ......................   Passed    0.00 sec
+        Start 542: stdvector_3
+542/794 Test #542: stdvector_3 ......................   Passed    0.00 sec
+        Start 543: stdvector_4
+543/794 Test #543: stdvector_4 ......................   Passed    0.00 sec
+        Start 544: stdvector_5
+544/794 Test #544: stdvector_5 ......................   Passed    0.00 sec
+        Start 545: stdvector_overload_1
+545/794 Test #545: stdvector_overload_1 .............   Passed    0.00 sec
+        Start 546: stdvector_overload_2
+546/794 Test #546: stdvector_overload_2 .............   Passed    0.00 sec
+        Start 547: stdvector_overload_3
+547/794 Test #547: stdvector_overload_3 .............   Passed    0.00 sec
+        Start 548: stdvector_overload_4
+548/794 Test #548: stdvector_overload_4 .............   Passed    0.00 sec
+        Start 549: stdvector_overload_5
+549/794 Test #549: stdvector_overload_5 .............   Passed    0.00 sec
+        Start 550: stdlist_1
+550/794 Test #550: stdlist_1 ........................   Passed    0.00 sec
+        Start 551: stdlist_2
+551/794 Test #551: stdlist_2 ........................   Passed    0.00 sec
+        Start 552: stdlist_3
+552/794 Test #552: stdlist_3 ........................   Passed    0.00 sec
+        Start 553: stdlist_4
+553/794 Test #553: stdlist_4 ........................   Passed    0.00 sec
+        Start 554: stdlist_5
+554/794 Test #554: stdlist_5 ........................   Passed    0.00 sec
+        Start 555: stdlist_overload_1
+555/794 Test #555: stdlist_overload_1 ...............   Passed    0.00 sec
+        Start 556: stdlist_overload_2
+556/794 Test #556: stdlist_overload_2 ...............   Passed    0.00 sec
+        Start 557: stdlist_overload_3
+557/794 Test #557: stdlist_overload_3 ...............   Passed    0.00 sec
+        Start 558: stdlist_overload_4
+558/794 Test #558: stdlist_overload_4 ...............   Passed    0.00 sec
+        Start 559: stdlist_overload_5
+559/794 Test #559: stdlist_overload_5 ...............   Passed    0.00 sec
+        Start 560: stddeque_1
+560/794 Test #560: stddeque_1 .......................   Passed    0.00 sec
+        Start 561: stddeque_2
+561/794 Test #561: stddeque_2 .......................   Passed    0.00 sec
+        Start 562: stddeque_3
+562/794 Test #562: stddeque_3 .......................   Passed    0.00 sec
+        Start 563: stddeque_4
+563/794 Test #563: stddeque_4 .......................   Passed    0.00 sec
+        Start 564: stddeque_5
+564/794 Test #564: stddeque_5 .......................   Passed    0.00 sec
+        Start 565: stddeque_overload_1
+565/794 Test #565: stddeque_overload_1 ..............   Passed    0.00 sec
+        Start 566: stddeque_overload_2
+566/794 Test #566: stddeque_overload_2 ..............   Passed    0.00 sec
+        Start 567: stddeque_overload_3
+567/794 Test #567: stddeque_overload_3 ..............   Passed    0.00 sec
+        Start 568: stddeque_overload_4
+568/794 Test #568: stddeque_overload_4 ..............   Passed    0.00 sec
+        Start 569: stddeque_overload_5
+569/794 Test #569: stddeque_overload_5 ..............   Passed    0.00 sec
+        Start 570: sparse_basic_1
+570/794 Test #570: sparse_basic_1 ...................   Passed    5.09 sec
+        Start 571: sparse_basic_2
+571/794 Test #571: sparse_basic_2 ...................   Passed   12.35 sec
+        Start 572: sparse_basic_5
+572/794 Test #572: sparse_basic_5 ...................   Passed    8.13 sec
+        Start 573: sparse_basic_6
+573/794 Test #573: sparse_basic_6 ...................   Passed    0.31 sec
+        Start 574: sparse_basic_3
+574/794 Test #574: sparse_basic_3 ...................   Passed    1.43 sec
+        Start 575: sparse_basic_4
+575/794 Test #575: sparse_basic_4 ...................   Passed    1.66 sec
+        Start 576: sparse_basic_7
+576/794 Test #576: sparse_basic_7 ...................   Passed    0.00 sec
+        Start 577: sparse_block_1
+577/794 Test #577: sparse_block_1 ...................   Passed    0.09 sec
+        Start 578: sparse_block_2
+578/794 Test #578: sparse_block_2 ...................   Passed    0.35 sec
+        Start 579: sparse_block_3
+579/794 Test #579: sparse_block_3 ...................   Passed    0.15 sec
+        Start 580: sparse_block_4
+580/794 Test #580: sparse_block_4 ...................   Passed    0.05 sec
+        Start 581: sparse_vector_1
+581/794 Test #581: sparse_vector_1 ..................   Passed    0.03 sec
+        Start 582: sparse_vector_2
+582/794 Test #582: sparse_vector_2 ..................   Passed    0.04 sec
+        Start 583: sparse_product_1
+583/794 Test #583: sparse_product_1 .................   Passed    0.25 sec
+        Start 584: sparse_product_2
+584/794 Test #584: sparse_product_2 .................   Passed    0.63 sec
+        Start 585: sparse_product_3
+585/794 Test #585: sparse_product_3 .................   Passed    0.12 sec
+        Start 586: sparse_product_4
+586/794 Test #586: sparse_product_4 .................   Passed    0.00 sec
+        Start 587: sparse_product_5
+587/794 Test #587: sparse_product_5 .................   Passed    0.25 sec
+        Start 588: sparse_ref_1
+588/794 Test #588: sparse_ref_1 .....................   Passed    0.00 sec
+        Start 589: sparse_ref_2
+589/794 Test #589: sparse_ref_2 .....................   Passed    0.00 sec
+        Start 590: sparse_ref_3
+590/794 Test #590: sparse_ref_3 .....................   Passed    0.00 sec
+        Start 591: sparse_solvers_1
+591/794 Test #591: sparse_solvers_1 .................   Passed    0.08 sec
+        Start 592: sparse_solvers_2
+592/794 Test #592: sparse_solvers_2 .................   Passed    0.30 sec
+        Start 593: sparse_permutations_1
+593/794 Test #593: sparse_permutations_1 ............   Passed    0.01 sec
+        Start 594: sparse_permutations_2
+594/794 Test #594: sparse_permutations_2 ............   Passed    0.02 sec
+        Start 595: simplicial_cholesky_1
+595/794 Test #595: simplicial_cholesky_1 ............   Passed    4.17 sec
+        Start 596: simplicial_cholesky_2
+596/794 Test #596: simplicial_cholesky_2 ............   Passed   17.58 sec
+        Start 597: simplicial_cholesky_3
+597/794 Test #597: simplicial_cholesky_3 ............   Passed    3.78 sec
+        Start 598: conjugate_gradient_1
+598/794 Test #598: conjugate_gradient_1 .............   Passed    3.79 sec
+        Start 599: conjugate_gradient_2
+599/794 Test #599: conjugate_gradient_2 .............   Passed   18.08 sec
+        Start 600: conjugate_gradient_3
+600/794 Test #600: conjugate_gradient_3 .............   Passed    3.26 sec
+        Start 601: incomplete_cholesky_1
+601/794 Test #601: incomplete_cholesky_1 ............   Passed    5.62 sec
+        Start 602: incomplete_cholesky_2
+602/794 Test #602: incomplete_cholesky_2 ............   Passed   11.17 sec
+        Start 603: incomplete_cholesky_3
+603/794 Test #603: incomplete_cholesky_3 ............   Passed    4.70 sec
+        Start 604: bicgstab_1
+604/794 Test #604: bicgstab_1 .......................   Passed    0.33 sec
+        Start 605: bicgstab_2
+605/794 Test #605: bicgstab_2 .......................   Passed    1.15 sec
+        Start 606: bicgstab_3
+606/794 Test #606: bicgstab_3 .......................   Passed    0.58 sec
+        Start 607: lscg_1
+607/794 Test #607: lscg_1 ...........................   Passed    1.25 sec
+        Start 608: lscg_2
+608/794 Test #608: lscg_2 ...........................   Passed    4.19 sec
+        Start 609: sparselu_1
+609/794 Test #609: sparselu_1 .......................   Passed    1.64 sec
+        Start 610: sparselu_2
+610/794 Test #610: sparselu_2 .......................   Passed    1.28 sec
+        Start 611: sparselu_3
+611/794 Test #611: sparselu_3 .......................   Passed    1.80 sec
+        Start 612: sparselu_4
+612/794 Test #612: sparselu_4 .......................   Passed    2.77 sec
+        Start 613: sparseqr_1
+613/794 Test #613: sparseqr_1 .......................   Passed    0.52 sec
+        Start 614: sparseqr_2
+614/794 Test #614: sparseqr_2 .......................   Passed    2.94 sec
+        Start 615: umeyama_1
+615/794 Test #615: umeyama_1 ........................   Passed    0.01 sec
+        Start 616: umeyama_2
+616/794 Test #616: umeyama_2 ........................   Passed    0.01 sec
+        Start 617: umeyama_3
+617/794 Test #617: umeyama_3 ........................   Passed    0.00 sec
+        Start 618: umeyama_4
+618/794 Test #618: umeyama_4 ........................   Passed    0.00 sec
+        Start 619: umeyama_5
+619/794 Test #619: umeyama_5 ........................   Passed    0.00 sec
+        Start 620: umeyama_6
+620/794 Test #620: umeyama_6 ........................   Passed    0.00 sec
+        Start 621: umeyama_7
+621/794 Test #621: umeyama_7 ........................   Passed    0.00 sec
+        Start 622: umeyama_8
+622/794 Test #622: umeyama_8 ........................   Passed    0.00 sec
+        Start 623: nesting_ops_1
+623/794 Test #623: nesting_ops_1 ....................   Passed    0.00 sec
+        Start 624: nesting_ops_2
+624/794 Test #624: nesting_ops_2 ....................   Passed    0.08 sec
+        Start 625: nesting_ops_3
+625/794 Test #625: nesting_ops_3 ....................   Passed    0.00 sec
+        Start 626: nesting_ops_4
+626/794 Test #626: nesting_ops_4 ....................   Passed    0.00 sec
+        Start 627: zerosized
+627/794 Test #627: zerosized ........................   Passed    0.00 sec
+        Start 628: dontalign_1
+628/794 Test #628: dontalign_1 ......................   Passed    0.00 sec
+        Start 629: dontalign_2
+629/794 Test #629: dontalign_2 ......................   Passed    0.00 sec
+        Start 630: dontalign_3
+630/794 Test #630: dontalign_3 ......................   Passed    0.01 sec
+        Start 631: dontalign_4
+631/794 Test #631: dontalign_4 ......................   Passed    0.00 sec
+        Start 632: dontalign_5
+632/794 Test #632: dontalign_5 ......................   Passed    0.00 sec
+        Start 633: dontalign_6
+633/794 Test #633: dontalign_6 ......................   Passed    0.00 sec
+        Start 634: dontalign_7
+634/794 Test #634: dontalign_7 ......................   Passed    0.00 sec
+        Start 635: dontalign_8
+635/794 Test #635: dontalign_8 ......................   Passed    0.00 sec
+        Start 636: evaluators
+636/794 Test #636: evaluators .......................   Passed    0.01 sec
+        Start 637: sizeoverflow
+637/794 Test #637: sizeoverflow .....................   Passed    0.00 sec
+        Start 638: prec_inverse_4x4_1
+638/794 Test #638: prec_inverse_4x4_1 ...............   Passed    2.29 sec
+        Start 639: prec_inverse_4x4_2
+639/794 Test #639: prec_inverse_4x4_2 ...............   Passed    2.35 sec
+        Start 640: prec_inverse_4x4_3
+640/794 Test #640: prec_inverse_4x4_3 ...............   Passed    1.96 sec
+        Start 641: vectorwiseop_1
+641/794 Test #641: vectorwiseop_1 ...................   Passed    0.00 sec
+        Start 642: vectorwiseop_2
+642/794 Test #642: vectorwiseop_2 ...................   Passed    0.00 sec
+        Start 643: vectorwiseop_3
+643/794 Test #643: vectorwiseop_3 ...................   Passed    0.00 sec
+        Start 644: vectorwiseop_4
+644/794 Test #644: vectorwiseop_4 ...................   Passed    0.00 sec
+        Start 645: vectorwiseop_5
+645/794 Test #645: vectorwiseop_5 ...................   Passed    0.00 sec
+        Start 646: vectorwiseop_6
+646/794 Test #646: vectorwiseop_6 ...................   Passed    0.00 sec
+        Start 647: vectorwiseop_7
+647/794 Test #647: vectorwiseop_7 ...................   Passed    0.00 sec
+        Start 648: special_numbers_1
+648/794 Test #648: special_numbers_1 ................   Passed    0.20 sec
+        Start 649: rvalue_types_1
+649/794 Test #649: rvalue_types_1 ...................   Passed    0.00 sec
+        Start 650: rvalue_types_2
+650/794 Test #650: rvalue_types_2 ...................   Passed    0.00 sec
+        Start 651: dense_storage
+651/794 Test #651: dense_storage ....................   Passed    0.00 sec
+        Start 652: ctorleak
+652/794 Test #652: ctorleak .........................   Passed    0.00 sec
+        Start 653: mpl2only
+653/794 Test #653: mpl2only .........................   Passed    0.00 sec
+        Start 654: inplace_decomposition_1
+654/794 Test #654: inplace_decomposition_1 ..........   Passed    0.01 sec
+        Start 655: inplace_decomposition_2
+655/794 Test #655: inplace_decomposition_2 ..........   Passed    0.01 sec
+        Start 656: inplace_decomposition_3
+656/794 Test #656: inplace_decomposition_3 ..........   Passed    0.02 sec
+        Start 657: inplace_decomposition_4
+657/794 Test #657: inplace_decomposition_4 ..........   Passed    0.03 sec
+        Start 658: inplace_decomposition_5
+658/794 Test #658: inplace_decomposition_5 ..........   Passed    0.02 sec
+        Start 659: inplace_decomposition_6
+659/794 Test #659: inplace_decomposition_6 ..........   Passed    0.03 sec
+        Start 660: inplace_decomposition_7
+660/794 Test #660: inplace_decomposition_7 ..........   Passed    0.03 sec
+        Start 661: inplace_decomposition_8
+661/794 Test #661: inplace_decomposition_8 ..........   Passed    0.03 sec
+        Start 662: half_float
+662/794 Test #662: half_float .......................   Passed    0.00 sec
+        Start 663: array_of_string
+663/794 Test #663: array_of_string ..................   Passed    0.00 sec
+        Start 664: fastmath
+664/794 Test #664: fastmath .........................   Passed    0.00 sec
+        Start 665: umfpack_support_1
+665/794 Test #665: umfpack_support_1 ................   Passed    0.67 sec
+        Start 666: umfpack_support_2
+666/794 Test #666: umfpack_support_2 ................   Passed    1.18 sec
+        Start 667: superlu_support_1
+667/794 Test #667: superlu_support_1 ................   Passed    0.36 sec
+        Start 668: superlu_support_2
+668/794 Test #668: superlu_support_2 ................   Passed    0.66 sec
+        Start 669: cholmod_support_1
+669/794 Test #669: cholmod_support_1 ................   Passed    6.18 sec
+        Start 670: cholmod_support_2
+670/794 Test #670: cholmod_support_2 ................   Passed   17.02 sec
+        Start 671: spqr_support_1
+671/794 Test #671: spqr_support_1 ...................   Passed    0.01 sec
+        Start 672: spqr_support_2
+672/794 Test #672: spqr_support_2 ...................   Passed    0.02 sec
+        Start 673: boostmultiprec_1
+673/794 Test #673: boostmultiprec_1 .................   Passed    4.52 sec
+        Start 674: boostmultiprec_2
+674/794 Test #674: boostmultiprec_2 .................   Passed   12.71 sec
+        Start 675: boostmultiprec_3
+675/794 Test #675: boostmultiprec_3 .................   Passed    0.58 sec
+        Start 676: boostmultiprec_4
+676/794 Test #676: boostmultiprec_4 .................   Passed    4.15 sec
+        Start 677: boostmultiprec_5
+677/794 Test #677: boostmultiprec_5 .................   Passed    2.65 sec
+        Start 678: boostmultiprec_6
+678/794 Test #678: boostmultiprec_6 .................   Passed   14.17 sec
+        Start 679: boostmultiprec_7
+679/794 Test #679: boostmultiprec_7 .................   Passed   13.93 sec
+        Start 680: boostmultiprec_8
+680/794 Test #680: boostmultiprec_8 .................   Passed   45.81 sec
+        Start 681: boostmultiprec_9
+681/794 Test #681: boostmultiprec_9 .................   Passed    2.18 sec
+        Start 682: boostmultiprec_10
+682/794 Test #682: boostmultiprec_10 ................   Passed    3.85 sec
+        Start 683: failtests
+683/794 Test #683: failtests ........................   Passed   66.51 sec
+        Start 684: NonLinearOptimization
+684/794 Test #684: NonLinearOptimization ............   Passed    0.07 sec
+        Start 685: NumericalDiff
+685/794 Test #685: NumericalDiff ....................   Passed    0.00 sec
+        Start 686: autodiff_scalar_1
+686/794 Test #686: autodiff_scalar_1 ................   Passed    0.00 sec
+        Start 687: autodiff_scalar_2
+687/794 Test #687: autodiff_scalar_2 ................   Passed    0.00 sec
+        Start 688: autodiff_scalar_3
+688/794 Test #688: autodiff_scalar_3 ................   Passed    0.00 sec
+        Start 689: autodiff_scalar_4
+689/794 Test #689: autodiff_scalar_4 ................   Passed    0.00 sec
+        Start 690: autodiff_scalar_5
+690/794 Test #690: autodiff_scalar_5 ................   Passed    0.00 sec
+        Start 691: autodiff_5
+691/794 Test #691: autodiff_5 .......................   Passed    0.00 sec
+        Start 692: autodiff_1
+692/794 Test #692: autodiff_1 .......................   Passed    0.00 sec
+        Start 693: autodiff_2
+693/794 Test #693: autodiff_2 .......................   Passed    0.00 sec
+        Start 694: autodiff_3
+694/794 Test #694: autodiff_3 .......................   Passed    0.00 sec
+        Start 695: autodiff_4
+695/794 Test #695: autodiff_4 .......................   Passed    0.00 sec
+        Start 696: BVH_1
+696/794 Test #696: BVH_1 ............................   Passed    0.02 sec
+        Start 697: BVH_2
+697/794 Test #697: BVH_2 ............................   Passed    0.02 sec
+        Start 698: BVH_3
+698/794 Test #698: BVH_3 ............................   Passed    0.02 sec
+        Start 699: matrix_exponential_2
+699/794 Test #699: matrix_exponential_2 .............   Passed    0.00 sec
+        Start 700: matrix_exponential_1
+700/794 Test #700: matrix_exponential_1 .............   Passed    0.00 sec
+        Start 701: matrix_exponential_8
+701/794 Test #701: matrix_exponential_8 .............   Passed    0.00 sec
+        Start 702: matrix_exponential_6
+702/794 Test #702: matrix_exponential_6 .............   Passed    0.01 sec
+        Start 703: matrix_exponential_5
+703/794 Test #703: matrix_exponential_5 .............   Passed    0.01 sec
+        Start 704: matrix_exponential_7
+704/794 Test #704: matrix_exponential_7 .............   Passed    0.00 sec
+        Start 705: matrix_exponential_3
+705/794 Test #705: matrix_exponential_3 .............   Passed    0.01 sec
+        Start 706: matrix_exponential_4
+706/794 Test #706: matrix_exponential_4 .............   Passed    0.01 sec
+        Start 707: matrix_exponential_9
+707/794 Test #707: matrix_exponential_9 .............   Passed    0.01 sec
+        Start 708: matrix_function_1
+708/794 Test #708: matrix_function_1 ................   Passed    0.00 sec
+        Start 709: matrix_function_2
+709/794 Test #709: matrix_function_2 ................   Passed    0.01 sec
+        Start 710: matrix_function_3
+710/794 Test #710: matrix_function_3 ................   Passed    0.04 sec
+        Start 711: matrix_function_4
+711/794 Test #711: matrix_function_4 ................   Passed    0.00 sec
+        Start 712: matrix_function_5
+712/794 Test #712: matrix_function_5 ................   Passed    0.02 sec
+        Start 713: matrix_function_6
+713/794 Test #713: matrix_function_6 ................   Passed    0.01 sec
+        Start 714: matrix_function_7
+714/794 Test #714: matrix_function_7 ................   Passed    0.09 sec
+        Start 715: matrix_power_2
+715/794 Test #715: matrix_power_2 ...................   Passed    0.00 sec
+        Start 716: matrix_power_1
+716/794 Test #716: matrix_power_1 ...................   Passed    0.00 sec
+        Start 717: matrix_power_9
+717/794 Test #717: matrix_power_9 ...................   Passed    0.06 sec
+        Start 718: matrix_power_10
+718/794 Test #718: matrix_power_10 ..................   Passed    0.01 sec
+        Start 719: matrix_power_11
+719/794 Test #719: matrix_power_11 ..................   Passed    0.00 sec
+        Start 720: matrix_power_12
+720/794 Test #720: matrix_power_12 ..................   Passed    0.01 sec
+        Start 721: matrix_power_7
+721/794 Test #721: matrix_power_7 ...................   Passed    0.00 sec
+        Start 722: matrix_power_3
+722/794 Test #722: matrix_power_3 ...................   Passed    0.01 sec
+        Start 723: matrix_power_4
+723/794 Test #723: matrix_power_4 ...................   Passed    0.03 sec
+        Start 724: matrix_power_5
+724/794 Test #724: matrix_power_5 ...................   Passed    0.00 sec
+        Start 725: matrix_power_8
+725/794 Test #725: matrix_power_8 ...................   Passed    0.01 sec
+        Start 726: matrix_power_6
+726/794 Test #726: matrix_power_6 ...................   Passed    0.00 sec
+        Start 727: matrix_square_root_1
+727/794 Test #727: matrix_square_root_1 .............   Passed    0.00 sec
+        Start 728: matrix_square_root_2
+728/794 Test #728: matrix_square_root_2 .............   Passed    0.01 sec
+        Start 729: matrix_square_root_3
+729/794 Test #729: matrix_square_root_3 .............   Passed    0.00 sec
+        Start 730: matrix_square_root_4
+730/794 Test #730: matrix_square_root_4 .............   Passed    0.01 sec
+        Start 731: matrix_square_root_5
+731/794 Test #731: matrix_square_root_5 .............   Passed    0.00 sec
+        Start 732: alignedvector3
+732/794 Test #732: alignedvector3 ...................   Passed    0.00 sec
+        Start 733: FFT
+733/794 Test #733: FFT ..............................   Passed    1.53 sec
+        Start 734: EulerAngles_1
+734/794 Test #734: EulerAngles_1 ....................   Passed    0.03 sec
+        Start 735: EulerAngles_2
+735/794 Test #735: EulerAngles_2 ....................   Passed    0.02 sec
+        Start 736: sparse_extra_1
+736/794 Test #736: sparse_extra_1 ...................   Passed    0.00 sec
+        Start 737: sparse_extra_2
+737/794 Test #737: sparse_extra_2 ...................   Passed    0.00 sec
+        Start 738: sparse_extra_3
+738/794 Test #738: sparse_extra_3 ...................   Passed    0.21 sec
+        Start 739: openglsupport
+739/794 Test #739: openglsupport ....................***Exception: Child aborted  0.37 sec
+        Start 740: polynomialsolver_1
+740/794 Test #740: polynomialsolver_1 ...............   Passed    0.00 sec
+        Start 741: polynomialsolver_2
+741/794 Test #741: polynomialsolver_2 ...............   Passed    0.00 sec
+        Start 742: polynomialsolver_3
+742/794 Test #742: polynomialsolver_3 ...............   Passed    0.01 sec
+        Start 743: polynomialsolver_4
+743/794 Test #743: polynomialsolver_4 ...............   Passed    0.01 sec
+        Start 744: polynomialsolver_5
+744/794 Test #744: polynomialsolver_5 ...............   Passed    0.01 sec
+        Start 745: polynomialsolver_6
+745/794 Test #745: polynomialsolver_6 ...............   Passed    0.01 sec
+        Start 746: polynomialsolver_7
+746/794 Test #746: polynomialsolver_7 ...............   Passed    0.02 sec
+        Start 747: polynomialsolver_8
+747/794 Test #747: polynomialsolver_8 ...............   Passed    0.01 sec
+        Start 748: polynomialsolver_9
+748/794 Test #748: polynomialsolver_9 ...............   Passed    0.03 sec
+        Start 749: polynomialsolver_10
+749/794 Test #749: polynomialsolver_10 ..............   Passed    0.02 sec
+        Start 750: polynomialsolver_11
+750/794 Test #750: polynomialsolver_11 ..............   Passed    0.00 sec
+        Start 751: polynomialutils_2
+751/794 Test #751: polynomialutils_2 ................   Passed    0.00 sec
+        Start 752: polynomialutils_3
+752/794 Test #752: polynomialutils_3 ................   Passed    0.00 sec
+        Start 753: polynomialutils_4
+753/794 Test #753: polynomialutils_4 ................   Passed    0.00 sec
+        Start 754: polynomialutils_5
+754/794 Test #754: polynomialutils_5 ................   Passed    0.00 sec
+        Start 755: polynomialutils_6
+755/794 Test #755: polynomialutils_6 ................   Passed    0.00 sec
+        Start 756: polynomialutils_7
+756/794 Test #756: polynomialutils_7 ................   Passed    0.00 sec
+        Start 757: polynomialutils_8
+757/794 Test #757: polynomialutils_8 ................   Passed    0.00 sec
+        Start 758: polynomialutils_9
+758/794 Test #758: polynomialutils_9 ................   Passed    0.00 sec
+        Start 759: splines
+759/794 Test #759: splines ..........................   Passed    0.11 sec
+        Start 760: gmres_1
+760/794 Test #760: gmres_1 ..........................   Passed    0.87 sec
+        Start 761: gmres_2
+761/794 Test #761: gmres_2 ..........................   Passed    1.75 sec
+        Start 762: minres_1
+762/794 Test #762: minres_1 .........................   Passed    5.59 sec
+        Start 763: minres_2
+763/794 Test #763: minres_2 .........................   Passed    0.00 sec
+        Start 764: levenberg_marquardt
+764/794 Test #764: levenberg_marquardt ..............   Passed    0.08 sec
+        Start 765: kronecker_product_1
+765/794 Test #765: kronecker_product_1 ..............   Passed    6.84 sec
+        Start 766: kronecker_product_2
+766/794 Test #766: kronecker_product_2 ..............   Passed    0.00 sec
+        Start 767: special_functions_1
+767/794 Test #767: special_functions_1 ..............   Passed    0.00 sec
+        Start 768: special_functions_2
+768/794 Test #768: special_functions_2 ..............   Passed    0.00 sec
+        Start 769: cxx11_tensor_dimension
+769/794 Test #769: cxx11_tensor_dimension ...........   Passed    0.00 sec
+        Start 770: cxx11_tensor_map
+770/794 Test #770: cxx11_tensor_map .................   Passed    0.00 sec
+        Start 771: cxx11_tensor_assign
+771/794 Test #771: cxx11_tensor_assign ..............   Passed    0.00 sec
+        Start 772: cxx11_tensor_comparisons
+772/794 Test #772: cxx11_tensor_comparisons .........   Passed    0.00 sec
+        Start 773: cxx11_tensor_forced_eval
+773/794 Test #773: cxx11_tensor_forced_eval .........   Passed    0.00 sec
+        Start 774: cxx11_tensor_math
+774/794 Test #774: cxx11_tensor_math ................   Passed    0.00 sec
+        Start 775: cxx11_tensor_const
+775/794 Test #775: cxx11_tensor_const ...............   Passed    0.00 sec
+        Start 776: cxx11_tensor_intdiv_1
+776/794 Test #776: cxx11_tensor_intdiv_1 ............   Passed    5.60 sec
+        Start 777: cxx11_tensor_intdiv_2
+777/794 Test #777: cxx11_tensor_intdiv_2 ............   Passed    3.30 sec
+        Start 778: cxx11_tensor_intdiv_3
+778/794 Test #778: cxx11_tensor_intdiv_3 ............   Passed    7.38 sec
+        Start 779: cxx11_tensor_intdiv_4
+779/794 Test #779: cxx11_tensor_intdiv_4 ............   Passed    7.21 sec
+        Start 780: cxx11_tensor_intdiv_5
+780/794 Test #780: cxx11_tensor_intdiv_5 ............   Passed    0.01 sec
+        Start 781: cxx11_tensor_intdiv_6
+781/794 Test #781: cxx11_tensor_intdiv_6 ............   Passed    0.01 sec
+        Start 782: cxx11_tensor_intdiv_7
+782/794 Test #782: cxx11_tensor_intdiv_7 ............   Passed    0.00 sec
+        Start 783: cxx11_tensor_casts
+783/794 Test #783: cxx11_tensor_casts ...............   Passed    0.00 sec
+        Start 784: cxx11_tensor_empty
+784/794 Test #784: cxx11_tensor_empty ...............   Passed    0.00 sec
+        Start 785: cxx11_tensor_sugar
+785/794 Test #785: cxx11_tensor_sugar ...............   Passed    0.00 sec
+        Start 786: cxx11_tensor_roundings
+786/794 Test #786: cxx11_tensor_roundings ...........   Passed    0.00 sec
+        Start 787: cxx11_tensor_layout_swap
+787/794 Test #787: cxx11_tensor_layout_swap .........   Passed    0.00 sec
+        Start 788: cxx11_tensor_io
+788/794 Test #788: cxx11_tensor_io ..................   Passed    0.00 sec
+        Start 789: cxx11_tensor_uint128_1
+789/794 Test #789: cxx11_tensor_uint128_1 ...........   Passed    0.15 sec
+        Start 790: cxx11_tensor_uint128_2
+790/794 Test #790: cxx11_tensor_uint128_2 ...........   Passed    0.17 sec
+        Start 791: cxx11_tensor_uint128_3
+791/794 Test #791: cxx11_tensor_uint128_3 ...........   Passed    0.59 sec
+        Start 792: cxx11_tensor_uint128_4
+792/794 Test #792: cxx11_tensor_uint128_4 ...........   Passed    2.73 sec
+        Start 793: cxx11_tensor_uint128_5
+793/794 Test #793: cxx11_tensor_uint128_5 ...........   Passed    0.00 sec
+        Start 794: cxx11_tensor_uint128_6
+794/794 Test #794: cxx11_tensor_uint128_6 ...........   Passed   33.20 sec
+
+99% tests passed, 1 tests failed out of 794
+
+Label Time Summary:
+Official       = 445.08 sec*proc (682 tests)
+Unsupported    =  78.51 sec*proc (111 tests)
+
+Total Test time (real) = 590.52 sec
+
+The following tests FAILED:
+	739 - openglsupport (Child aborted)
+CMakeFiles/check.dir/build.make:57: recipe for target 'CMakeFiles/check' failed
+CMakeFiles/Makefile2:355: recipe for target 'CMakeFiles/check.dir/all' failed
+CMakeFiles/Makefile2:362: recipe for target 'CMakeFiles/check.dir/rule' failed
+Makefile:292: recipe for target 'check' failed
